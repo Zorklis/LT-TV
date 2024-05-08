@@ -1,0 +1,63 @@
+2005-09-04 LOST
+
+2005-09-11 LOST
+
+2005-09-18 LOST
+
+2005-09-25 LOST
+
+2005-10-02 LOST
+
+2005-10-09 LOST
+
+2005-10-16 LOST
+
+2005-10-23 LOST
+
+2005-10-30 LOST
+
+2005-11-06 LOST
+
+2005-11-13 = 100kbps .asf found / 300kbps lost
+
+2005-11-20 = 100kbps .asf found / 300kbps lost
+
+2005-11-27 = 100kbps .asf found / 300kbps lost
+
+2005-12-04 = 100kbps .asf found / 300kbps lost
+
+2005-12-11 = 100kbps .asf found / 300kbps lost
+
+2005-12-18 = 100kbps .asf found / 300kbps lost
+
+2006-01-08 = 100kbps .asf found / 300kbps lost
+
+2006-01-15 = 100kbps .wmv found / 300kbps lost
+
+2006-01-22 LOST
+
+2006-01-29 = 100kbps .wmv found / 300kbps lost
+
+2006-02-05 LOST
+
+2006-02-12 = 100kbps .wmv found / 300kbps lost
+
+2006-02-19 = 100kbps .wmv found / 300kbps lost
+
+2006-02-26 = 100kbps .wmv found / 300kbps lost
+
+2006-03-05 = 100kbps .wmv found / 300kbps lost
+
+2006-03-12 LOST
+
+2006-03-19 LOST
+
+2006-03-26 = 100kbps .wmv found / 300kbps .wmv FOUND but failures to download
+
+https://web.archive.org/web/20070315164650/http://www.demotv.lt:80/movies/demo_2006-03-26_300.wmv
+
+(maybe someone will manage to download)
+
+2006-04-02 = 100kbps .wmv found / 300kbps lost
+
+2006-04-09 = 100kbps .wmv found / 300kbps lost
