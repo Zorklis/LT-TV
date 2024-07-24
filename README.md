@@ -3,3 +3,5 @@
 The purpose of this project is to track down recordings of Lithuanian Television shows from various channels.
 
 Currently focusing on post 1999 to early pre-2010's
+
+Due to laws and size limits (on github) recordings shouldn't be stored here.
