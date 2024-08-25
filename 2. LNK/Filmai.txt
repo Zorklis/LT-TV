@@ -1,49 +1,50 @@
 Format:
 Date when added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
-xx-xx | Pavadinimas | N-14 | Original | XX:XX | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | URL
+xx-xx | Pavadinimas | N-14 | Original | X:XX:XX | Tekstą vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | URL
 ===2024=== https://lnk.lt/filmai
 
-08-24 | Somerdalio bylos. Baudžiame tuos, kuriuos mylime | N-14 | Sommerdahl II. I Hate that I Love You (2021) | 1:33:41 | Tekstą vertė: Marta Martinaitė, Skaitė: Gintaras Deksnys, Garso režisierius: Arvydas Zakšenskas | https://lnk.lt/somerdalio-bylos-baudziame-tuos-kuriuos-mylime/267527
-08-24 | Slaptasis agentas Maksas | Show Dogs (2018) | Tekstą vertė: Laura Stašaitytė, Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Arvydas Zakšenskas | https://lnk.lt/slaptasis-agentas-maksas/267399
-08-24 | Kepėjų kovos | Film | Brie's Bake Off Challenge (2022) | 1:33:41 | Teksta vertė: Erika Urbelevič, Skaitė/Įgarsino: Daiva Lebeliūnaitė, Garso režisierė: Viktorija Golubkevičiūtė | https://lnk.lt/kepeju-kovos/267393
 
-08-23 | Detektyvas Bekstriomas | N-14 | Backstrom (2022) S0??E0??? | 1:26:56 | Tekstą vertė: Marta Martinaitė, Skaitė: Gintaras Deksnys, Garso režisierius: Andrius Paulavičius | https://lnk.lt/detektyvas-bekstriomas/267511
+08-24 | Somerdalio bylos. Baudžiame tuos, kuriuos mylime | N-14 | Sommerdahl II. I Hate that I Love You (2021) | 1:33:41 | Tekstą vertė: Marta Martinaitė, Skaitė: Gintaras Deksnys, Garso režisierius: Arvydas Zakšenskas | https://lnk.lt/somerdalio-bylos-baudziame-tuos-kuriuos-mylime/267527
+08-24 | Slaptasis agentas Maksas | Show Dogs (2018) | 1:23:56 | Tekstą vertė: Laura Stašaitytė, Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Arvydas Zakšenskas | https://lnk.lt/slaptasis-agentas-maksas/267399
+08-24 | Kepėjų kovos | Film | Brie's Bake Off Challenge (2022) | 1:33:41 | Tekstą vertė: Erika Urbelevič, Skaitė/Įgarsino: Daiva Lebeliūnaitė, Garso režisierė: Viktorija Golubkevičiūtė | https://lnk.lt/kepeju-kovos/267393
+
+08-23 | Detektyvas Bekstriomas | N-14 | Bäckström (2024) S3E4 - Bäckströms blodröda | 1:26:56 | Tekstą vertė: Marta Martinaitė, Skaitė: Gintaras Deksnys, Garso režisierius: Andrius Paulavičius | https://lnk.lt/detektyvas-bekstriomas/267511
 
 08-22 | Kol laukiau tavęs | N-14 | The Good House (2022) | 1:35:22 | Tekstą vertė: Irma Milevičiutė, Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Andrius Paulavičius | https://lnk.lt/kol-laukiau-taves/267366
 
-08-21 | Privatus detektyvas Nikis Larsonas | N-14 | Nicky Larson et le parfum de Cupidon | 1:25:09 | Teksta vertė: Ignacijus Daukša , Skaitė/Įgarsino: Daiva Lebeliūnaitė ir Eidvydas Stankevičius , Garso režisierius: Arvydas Zakšenskas , | https://lnk.lt/privatus-detektyvas-nikis-larsonas
-08-21 | Nusikaltimo vieta - Hamburgas. Rikošetas | N-14 | Tatort. Kommissar Falke. Querschlager | 1:28:28 | Teksta vertė: Viltė Žukaitė , Skaitė/Įgarsino: Gintaras Deksnys , Garso režisierius: Germanas Solovjovas , | https://lnk.lt/nusikaltimo-vieta-hamburgas-rikosetas
+08-21 | Privatus detektyvas Nikis Larsonas | N-14 | Nicky Larson et le parfum de Cupidon | 1:25:09 | Tekstą vertė: Ignacijus Daukša , Skaitė/Įgarsino: Daiva Lebeliūnaitė ir Eidvydas Stankevičius , Garso režisierius: Arvydas Zakšenskas , | https://lnk.lt/privatus-detektyvas-nikis-larsonas
+08-21 | Nusikaltimo vieta - Hamburgas. Rikošetas | N-14 | Tatort. Kommissar Falke. Querschlager | 1:28:28 | Tekstą vertė: Viltė Žukaitė , Skaitė/Įgarsino: Gintaras Deksnys , Garso režisierius: Germanas Solovjovas , | https://lnk.lt/nusikaltimo-vieta-hamburgas-rikosetas
 
 
-08-20 | Bastūnas, Siuvėjas, Kareivis, Šnipas | N-14 | Tinker Tailor Soldier Spy | 1:56:45 | Teksta vertė: :( , Skaitė/Įgarsino: Jonas Radzevičius, Garso režisierius: :( , | https://lnk.lt/bastunas-siuvejas-kareivis-snipas/267318
+08-20 | Bastūnas, Siuvėjas, Kareivis, Šnipas | N-14 | Tinker Tailor Soldier Spy | 1:56:45 | Tekstą vertė: :( , Skaitė/Įgarsino: Jonas Radzevičius, Garso režisierius: :( , | https://lnk.lt/bastunas-siuvejas-kareivis-snipas/267318
 08-20 | Ginklas | N-14| The Weapon | 1:16:57 | Tekstą vertė: ?, Skaitė/Įgarsino: Gytis Jurgelevičius, Garso režisierius: :( , | https://lnk.lt/ginklas/267148
 
 
-08-19 | Striksės | N-7 | POMS | 1:23:29 | Teksta vertė:  Jūratė Gasiūnienė , Skaitė/Įgarsino: Daiva Lebeliūnaitė ir Eidvydas Stankevičius , Garso režisierius: Mindaugas Juška , | https://lnk.lt/strikses/267294
+08-19 | Striksės | N-7 | POMS | 1:23:29 | Tekstą vertė: Jūratė Gasiūnienė , Skaitė/Įgarsino: Daiva Lebeliūnaitė ir Eidvydas Stankevičius , Garso režisierius: Mindaugas Juška , | https://lnk.lt/strikses/267294
 
 
-08-18 | Prancūziška žmogžudystė. Mirtis Omahos paplūdimyje | N-14 | Le Mort de la plage | 1:30:21 | Teksta vertė: Neringa Kažakauskaitė , Skaitė/Įgarsino: Eidvydas Stankevičius , Garso režisierius: Germanas Solovjovas , | https://lnk.lt/prancuziska-zmogzudyste-mirtis-omahos-papludimyje/266407
-08-18 | Britanijos beieškant. Priešistorė | Dokumentika | Digging for Britain - Prehistory | 49:41 | Teksta vertė: Dovydas Skaburskis , Skaitė/Įgarsino: Gintaras Deksnys , Garso režisierius: Andrius Paulavičius , | https://lnk.lt/britanijos-beieskant-priesistore-dokumentika/266139
-08-18 | Kol dar gyvenu… | N-14 | De son vivant (2021) | 1:58:17 | Teksta vertė: :( , Skaitė/Įgarsino: Daiva Tamošiūnaitė , Garso režisierė: Viktorija Cecilija Golubkevičiūtė , | https://lnk.lt/kol-dar-gyvenu
+08-18 | Prancūziška žmogžudystė. Mirtis Omahos paplūdimyje | N-14 | Le Mort de la plage | 1:30:21 | Tekstą vertė: Neringa Kažakauskaitė , Skaitė/Įgarsino: Eidvydas Stankevičius , Garso režisierius: Germanas Solovjovas , | https://lnk.lt/prancuziska-zmogzudyste-mirtis-omahos-papludimyje/266407
+08-18 | Britanijos beieškant. Priešistorė | Dokumentika | Digging for Britain - Prehistory | 49:41 | Tekstą vertė: Dovydas Skaburskis , Skaitė/Įgarsino: Gintaras Deksnys , Garso režisierius: Andrius Paulavičius , | https://lnk.lt/britanijos-beieskant-priesistore-dokumentika/266139
+08-18 | Kol dar gyvenu… | N-14 | De son vivant (2021) | 1:58:17 | Tekstą vertė: :( , Skaitė/Įgarsino: Daiva Tamošiūnaitė , Garso režisierė: Viktorija Cecilija Golubkevičiūtė , | https://lnk.lt/kol-dar-gyvenu
 
 
-08-17 | Midvėjaus mūšis | N-14 | Midway (2019) | 2:05:27 | Teksta vertė: Dovydas Skaburskis , Skaitė/Įgarsino: Jonas Radzevičius , Garso režisierius: Andrius Paulavičius , | https://lnk.lt/midvejaus-musis/266072
-08-17 | Somerdalio bylos. Meilė (beveik) viską ištveria | N-14 | Sommerdahl II. Love Endures (Almost) All Things (2021) | 1:28:17 | Teksta vertė: Marta Martinaitė , Skaitė/Įgarsino: Gintaras Deksnys , Garso režisierius: Andrius Paulavičius , | https://lnk.lt/somerdalio-bylos-meile-beveik-viska-istveria/266391
-08-17 | Sumaištis Sen Tropeze | N-7 | Mystère à Saint-Tropez (2021) | 1:22:35 | Teksta vertė: :( , Skaitė/Įgarsino: Daiva Lebeliūnaitė ir Eidvydas Stankevičius , Garso režisierius: Andrius Paulavičius , | https://lnk.lt/sumaistis-sen-tropeze/266263
+08-17 | Midvėjaus mūšis | N-14 | Midway (2019) | 2:05:27 | Tekstą vertė: Dovydas Skaburskis , Skaitė/Įgarsino: Jonas Radzevičius , Garso režisierius: Andrius Paulavičius , | https://lnk.lt/midvejaus-musis/266072
+08-17 | Somerdalio bylos. Meilė (beveik) viską ištveria | N-14 | Sommerdahl II. Love Endures (Almost) All Things (2021) | 1:28:17 | Tekstą vertė: Marta Martinaitė , Skaitė/Įgarsino: Gintaras Deksnys , Garso režisierius: Andrius Paulavičius , | https://lnk.lt/somerdalio-bylos-meile-beveik-viska-istveria/266391
+08-17 | Sumaištis Sen Tropeze | N-7 | Mystère à Saint-Tropez (2021) | 1:22:35 | Tekstą vertė: :( , Skaitė/Įgarsino: Daiva Lebeliūnaitė ir Eidvydas Stankevičius , Garso režisierius: Andrius Paulavičius , | https://lnk.lt/sumaistis-sen-tropeze/266263
 
 
-08-16 | Gili baimė | N-14 | ??? | 1:19:51 | Teksta vertė: Irma Milevičiutė , Skaitė/Įgarsino: Tomas Ališauskas , Garso režisierius: Arvydas Zakšenskas , | https://lnk.lt/gili-baime/266057
-08-16 | Detektyvas Bekstriomas | N-14 | 1:27:16 | Teksta vertė: Marta Martinaitė , Skaitė/Įgarsino: Gintaras Deksnys , Garso režisierius: Germanas Solovjovas , | https://lnk.lt/detektyvas-bekstriomas/266375
-Pono Byno atostogos | N-7 | Mr. Bean's Holiday | XX:XX | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/pono-byno-atostogos/266222
+08-16 | Gili baimė | N-14 | ??? | 1:19:51 | Tekstą vertė: Irma Milevičiutė , Skaitė/Įgarsino: Tomas Ališauskas , Garso režisierius: Arvydas Zakšenskas , | https://lnk.lt/gili-baime/266057
+08-16 | Detektyvas Bekstriomas | N-14 | Bäckström (2024) S3E1 - Operation Palma | 1:27:16 | Tekstą vertė: Marta Martinaitė , Skaitė/Įgarsino: Gintaras Deksnys , Garso režisierius: Germanas Solovjovas , | https://lnk.lt/detektyvas-bekstriomas/266375
+Pono Byno atostogos | N-7 | Mr. Bean's Holiday | XX:XX | Tekstą vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/pono-byno-atostogos/266222
 
 
-08-15 | Veiksmas! | N-7 | Action | 45:59 | Teksta vertė: Marija Paškevičiutė, Skaitė: Gytis Jurgelevičius, Garso režisierius: Andrius Paulavičius | https://lnk.lt/veiksmas/266040
-Tigro kelionė Himalajuose | ??? | XX:XX | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/tigro-kelione-himalajuose/266219
+08-15 | Veiksmas! | N-7 | Action | 45:59 | Tekstą vertė: Marija Paškevičiutė, Skaitė: Gytis Jurgelevičius, Garso režisierius: Andrius Paulavičius | https://lnk.lt/veiksmas/266040
+Tigro kelionė Himalajuose | ??? | XX:XX | Tekstą vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/tigro-kelione-himalajuose/266219
 
 
 08-14 | Ir visi jų vyrai | N-14 | Ir visi jų vyrai | 1:43:04 | Garso režisierius: X , | https://lnk.lt/ir-visi-ju-vyrai/266213
-Amžinoji Pompėja | ??? | XX:XX | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/amzinoji-pompeja--dokumentika/266120
-Vagys melagiai | N-14 | ??? | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/vagys-melagiai/266189
+Amžinoji Pompėja | ??? | XX:XX | Tekstą vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/amzinoji-pompeja--dokumentika/266120
+Vagys melagiai | N-14 | ??? | Tekstą vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/vagys-melagiai/266189
 
 
 ===2023===
