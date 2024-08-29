@@ -1,7 +1,5 @@
 ![LT TV Logo](https://github.com/Zorklis/LT-TV-Programa/assets/85455465/8af21558-6863-4625-adc1-d24045149992)
 
-The purpose of this project is to track down recordings of Lithuanian Television shows from various channels.
+The purpose of this project is to track down recordings/links for Lithuanian Television media (from all the channels).
 
-Currently focusing on post 1999 to early pre-2010's
-
-Due to laws and size limits (on github) recordings shouldn't be stored here.
+For a Lithuanian Media database, go to: [LT Media wiki](https://ltmedia.fandom.com/wiki/LTMedia_Wiki)
