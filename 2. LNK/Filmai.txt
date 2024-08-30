@@ -3,6 +3,8 @@ Date when added | LT title | Age rating/Documentary | Original Title | Time/Leng
 xx-xx | Pavadinimas | N-14 | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 ===2024=== https://lnk.lt/filmai
 
+08-29 | Liūnas | N-14 | Quicksand (2023)| 1:20:06 | Tekstą vertė: Irma Milevičiūtė, Skaitė: Tomas Ališauskas, Garso režisierė: Viktorija Golubkevičiūtė | https://lnk.lt/liunas/268205
+
 08-28 | Aš matau tave | N-14 | I See You (2019)| 1:28:26 | Tekstą vertė: Neringa Siurblytė Keršulienė, Skaitė: Eidvydas Stankevičius, Garso režisierius: Andrius Paulavičius | https://lnk.lt/as-matau-tave/268189
 
 08-27 | Kompromatas | N-14 | Kompromat (2022) | 1:59:41 | Tekstą vertė: Aurika Usonienė, Skaitė: Inga Valinskienė ir Jonas Radzevičius, Garso režisierius: Arvydas Zakšenskas | https://lnk.lt/kompromatas/268349
