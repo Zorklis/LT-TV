@@ -1,20 +1,10 @@
 Format:
-Date when added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
-xx-xx | Pavadinimas | N-14 | Original | XX:XX | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | URL
+Date when added | LT title | Original Title | Time/Lenght | Voice Actor/Dubber, translation team | Link.
+xx-xx | Pavadinimas | Original | X:XX:XX | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | URL
 ===2024=== https://lnk.lt/vaikams
 
-| ??? | 
-| ??? | 
-| ??? | 
-| ??? | 
-| ??? | 
-| ??? | 
-| ??? | 
-| ??? | 
-| ??? | 
-| ??? | 
-| ??? | 
-| ??? | 
+Didžiapėdžio vaikis | The Son of Bigfoot (2017) | 1:24:55 | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/didziapedzio-vaikis/268432
+Į mėnulį | Peterchens Mondfahrt (2021)  | 1:18:15 | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | https://lnk.lt/i-menuli/268419
 Marmadukas | ??? | 1:19:28 https://lnk.lt/marmadukas/266269
 Bitė Maja. Auksinis kiaušinis | ??? | 1:18:46 https://lnk.lt/bite-maja-auksinis-kiausinis/266268
 Lino. Nuotykiai katino kailyje | ??? | 1:29:33 https://lnk.lt/lino-nuotykiai-katino-kailyje/266255
