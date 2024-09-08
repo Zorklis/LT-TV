@@ -1,8 +1,12 @@
 Format:
 Date when added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
 xx-xx | Pavadinimas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
-===2024=== https://play.tv3.lt/main/sections/filmai,2768231
+===2024=== https://play.tv3.lt/main/sections/filmai,2768231   OR  https://play.tv3.lt/movie/russian,4197831
 
+
+xx-xx | Slaptasis agentas Maksas | Show Dogs (2018) | 1:28:25 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/kids_movies/slaptasis-agentas-maksas,vod-1099385
+xx-xx | Loganų sėkmė | Logan Lucky (2017) | 1:53:46 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/loganu-sekme,vod-1022297
+xx-xx | Šalutinis efektas | LIMITLESS (2011) | 1:40:26 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/salutinis-efektas,vod-1022095
 
 xx-xx | Laukinė gamta. Žirafos. Švelniosios Afrikos milžinės | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/laukine-gamta-zirafos-svelniosios-afrikos-milzines-,vod-5283006
 xx-xx | Laimės pranašai | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/laimes-pranasai-,vod-5253724
