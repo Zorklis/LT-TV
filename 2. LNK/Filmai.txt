@@ -24,6 +24,7 @@ xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso 
 09-01 | Ištraukti peiliai | N-14 | Knives Out (2019)| 2:02:12 | Tekstą vertė: Irma Milevičiūtė, Skaitė: Inga Valinskienė ir Jonas Radzevičius, Garso režisierė: Viktorija Golubkevičiūtė | https://lnk.lt/istraukti-peiliai/268442
 09-01 | Pagunda | N-14 | Trust (2021) | 1:26:27 | Tekstą vertė: Neringa Keršulienė, Skaitė: Daiva Tamošiūnaitė ir Eidvydas Stankevičius, Garso režisierius: Viktorija Golubkevičiūtė, | https://lnk.lt/pagunda/268558
 
+
 08-31 | Nekenčiu tavęs! | N-14 | The Hating Game (2021) | 1:34:41 | Tekstą vertė: Vaida Daugkaitienė, Skaitė: Inga Valinskienė ir Jonas Radzevičius, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/nekenciu-taves/268428
 08-31 | Didysis pasivaikščiojimas | La Grande Vadrouille (1966) | 1:58:09 | Tekstą vertė: :(, Skaitė: Eidvydas Stankevičius ir Aistis Mickevičius, Garso režisierius: Arvydas Zakšenskas, | https://lnk.lt/didysis-pasivaiksciojimas
 08-31 | Gyvenimas kaip šokis | N-14 | En corps (2022) | 1:48:32 | Tekstą vertė: Viktoras Digmanas(?), Skaitė: Eidvydas Stankevičius, Garso režisierius: Arvydas Zakšenskas, | https://lnk.lt/gyvenimas-kaip-sokis/268422
@@ -57,32 +58,25 @@ xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso 
 08-21 | Privatus detektyvas Nikis Larsonas | N-14 | Nicky Larson et le parfum de Cupidon | 1:25:09 | Tekstą vertė: Ignacijus Daukša, Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Arvydas Zakšenskas, | https://lnk.lt/privatus-detektyvas-nikis-larsonas
 08-21 | Nusikaltimo vieta - Hamburgas. Rikošetas | N-14 | Tatort. Kommissar Falke. Querschlager | 1:28:28 | Tekstą vertė: Viltė Žukaitė, Skaitė: Gintaras Deksnys, Garso režisierius: Germanas Solovjovas, | https://lnk.lt/nusikaltimo-vieta-hamburgas-rikosetas
 
-
 08-20 | Bastūnas, Siuvėjas, Kareivis, Šnipas | N-14 | Tinker Tailor Soldier Spy | 1:56:45 | Tekstą vertė: :(, Skaitė: Jonas Radzevičius, Garso režisierius: :(, | https://lnk.lt/bastunas-siuvejas-kareivis-snipas/267318
 08-20 | Ginklas | N-14| The Weapon | 1:16:57 | Tekstą vertė: ?, Skaitė: Gytis Jurgelevičius, Garso režisierius: :(, | https://lnk.lt/ginklas/267148
 
-
 08-19 | Striksės | N-7 | POMS | 1:23:29 | Tekstą vertė: Jūratė Gasiūnienė, Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Mindaugas Juška, | https://lnk.lt/strikses/267294
-
 
 08-18 | Prancūziška žmogžudystė. Mirtis Omahos paplūdimyje | N-14 | Le Mort de la plage | 1:30:21 | Tekstą vertė: Neringa Kažakauskaitė, Skaitė: Eidvydas Stankevičius, Garso režisierius: Germanas Solovjovas, | https://lnk.lt/prancuziska-zmogzudyste-mirtis-omahos-papludimyje/266407
 08-18 | Britanijos beieškant. Priešistorė | Dokumentika | Digging for Britain - Prehistory | 49:41 | Tekstą vertė: Dovydas Skaburskis, Skaitė: Gintaras Deksnys, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/britanijos-beieskant-priesistore-dokumentika/266139
 08-18 | Kol dar gyvenu… | N-14 | De son vivant (2021) | 1:58:17 | Tekstą vertė: :(, Skaitė: Daiva Tamošiūnaitė, Garso režisierė: Viktorija Cecilija Golubkevičiūtė, | https://lnk.lt/kol-dar-gyvenu
 
-
 08-17 | Midvėjaus mūšis | N-14 | Midway (2019) | 2:05:27 | Tekstą vertė: Dovydas Skaburskis, Skaitė: Jonas Radzevičius, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/midvejaus-musis/266072
 08-17 | Somerdalio bylos. Meilė (beveik) viską ištveria | N-14 | Sommerdahl II. Love Endures (Almost) All Things (2021) | 1:28:17 | Tekstą vertė: Marta Martinaitė, Skaitė: Gintaras Deksnys, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/somerdalio-bylos-meile-beveik-viska-istveria/266391
 08-17 | Sumaištis Sen Tropeze | N-7 | Mystère à Saint-Tropez (2021) | 1:22:35 | Tekstą vertė: :(, Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/sumaistis-sen-tropeze/266263
-
 
 08-16 | Gili baimė | N-14 | ??? | 1:19:51 | Tekstą vertė: Irma Milevičiutė, Skaitė: Tomas Ališauskas, Garso režisierius: Arvydas Zakšenskas, | https://lnk.lt/gili-baime/266057
 08-16 | Detektyvas Bekstriomas | N-14 | Bäckström (2024) S3E1 - Operation Palma | 1:27:16 | Tekstą vertė: Marta Martinaitė, Skaitė: Gintaras Deksnys, Garso režisierius: Germanas Solovjovas, | https://lnk.lt/detektyvas-bekstriomas/266375
 Pono Byno atostogos | N-7 | Mr. Bean's Holiday | XX:XX | Tekstą vertė: Agnė Lankaitytė, Skaitė: Eidvydas Stankevičius, Garso režisierius: Andrius Paulavičius| https://lnk.lt/pono-byno-atostogos/266222
 
-
 08-15 | Veiksmas! | N-7 | Action | 45:59 | Tekstą vertė: Marija Paškevičiutė, Skaitė: Gytis Jurgelevičius, Garso režisierius: Andrius Paulavičius | https://lnk.lt/veiksmas/266040
 Tigro kelionė Himalajuose | ??? | XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://lnk.lt/tigro-kelione-himalajuose/266219
-
 
 08-14 | Ir visi jų vyrai | N-14 | Ir visi jų vyrai | 1:43:04 | Garso režisierius: X, | https://lnk.lt/ir-visi-ju-vyrai/266213
 Amžinoji Pompėja | ??? | XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://lnk.lt/amzinoji-pompeja--dokumentika/266120
