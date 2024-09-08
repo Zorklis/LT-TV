@@ -1,11 +1,28 @@
 Format:
-Date when added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
-xx-xx | Pavadinimas | N-14 | Original | XX:XX | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | URL
+Date when added - removed | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
+xx-xx | Pavadinimas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
 ===2024=== https://epika.lrt.lt/animaciniai-filmai
 
 
-
-
+--Filmai vaikams--
+xx-xx | Geriausias pasaulyje šnipas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/vaidybiniai-filmai,268/geriausias-pasaulyje-snipas,433888
+xx-xx | Žąsiukas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/vaidybiniai-filmai,268/zasiukas,733756
+xx-xx | Uljos Funk pranašystė | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/vaidybiniai-filmai,268/uljos-funk-pranasyste,733612
+xx-xx - 09-10 23:59? | Viesulas 2 | Ostwind 2 (2015) | 1:43:42 | Teksta vertė: Valda Dulevičiutė Žilionė, Redagavo: Miglė Sabalytė, Skaitė: Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, [įgarsintą LRT] | https://epika.lrt.lt/vaidybiniai-filmai,268/viesulas-2,465968
+xx-xx | Maišalynė | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/vaidybiniai-filmai,268/maisalyne,730376
+xx-xx | Oskaro Amerika | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/vaidybiniai-filmai,268/oskaro-amerika,728809
+xx-xx | Raudonkepuraitė | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/raudonkepuraite-,608550
+xx-xx | Kometa Mumių šalyje | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/kometa-mumiu-salyje,577474
+xx-xx | Vaiduoklis Hui Bū ir raganų pilis | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/filmai-vaikams,410/vaiduoklis-hui-bu-ir-raganu-pilis,679635
+xx-xx | Hanso Kristiano Anderseno pasakos | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/filmai-vaikams,410/hanso-kristiano-anderseno-pasakos-odcinki,675845
+xx-xx | Nykštukėnas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/vaidybiniai-filmai,268/nykstukenas,694179
+xx-xx | Drakonas ir strazdanotoji gražuolė | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/drakonas-ir-strazdanotoji-grazuole,625463
+xx-xx | Diena, kai mano tėtis virto krūmu | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/vaidybiniai-filmai,268/diena-kai-mano-tetis-virto-krumu,624782
+xx-xx | Nesąmoniukas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/vaidybiniai-filmai,268/nesamoniukas,624772
+xx-xx | Džeki ir Opjen  | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/filmai-vaikams,410/dzeki-ir-opjen-,623573
+xx-xx | Foksteris ir Maksas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/vaidybiniai-filmai,268/foksteris-ir-maksas,618013
+xx-xx | Šiurpioji šmėkla | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/siurpioji-smekla,528380
+xx-xx | Babaužiukai. Septynios fantastiškos istorijos | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/babauziukai-septynios-fantastiskos-istorijos,429864
 
 
 ===2023===
