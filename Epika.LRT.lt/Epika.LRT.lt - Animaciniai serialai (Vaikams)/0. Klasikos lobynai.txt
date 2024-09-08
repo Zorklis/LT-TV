@@ -1,4 +1,21 @@
-===2024=== 
+Format:
+Date when added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
+xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 
+===2024=== - https://epika.lrt.lt/animaciniai-filmai
 
-
+xx-xx | Laiškai | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/laiskai,429866
+xx-xx | Mįslė | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/misle,429874
+xx-xx | Baubas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/baubas-,429860
+xx-xx | Perspėjimo signalas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/perspejimo-signalas,429862
+xx-xx | Arkliavagio gudrybė | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/arkliavagio-gudrybe,429856
+xx-xx | Palankios aplinkybės | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/palankios-aplinkybes,430066
+xx-xx | Tas bejausmis robotas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/tas-bejausmis-robotas,429859
+xx-xx | Rytoj, 11 valandą, ryto | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/rytoj-11-valanda-ryto,429875
+xx-xx | Zuikio paveikslėliai | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/spektakliai-vaikams,8445/zuikio-paveiksleliai,647727
+xx-xx | Linksma kelionė | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/linksma-kelione,429855
+xx-xx | Pusryčiai - jėga | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/pusryciai---jega,429868
+xx-xx | Popieriaus mieste | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/popieriaus-mieste,430067
+xx-xx | Tie suaugę... kaip vaikai | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/tie-suauge-kaip-vaikai,429869
+xx-xx | Žvejoti, žvejoti | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/zvejoti-zvejoti,429870
+xx-xx | Vilniaus mergelė | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/animaciniai-filmai,367/vilniaus-mergele,429867
