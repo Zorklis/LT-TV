@@ -3,7 +3,10 @@ Note/Errors| Date when shown/added | LT title | Age rating/Documentary | Origina
 Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 ===2024=== https://lnk.lt/filmai
 
-09-13 | Laiko kilpa | N-14 | Looper (2012) | 1:48:00 | Tekstą vertė: :(, Tekstą skaitė: Tomas Ališauskas, Garso režisierius: Olga B(???), | https://lnk.lt/laiko-kilpa/270747
+09-14 | Septynios minutės po vidunakčio | N-7 | Monster Calls (2016) | 1:36:56 | Tekstą vertė: Kristina Telyčėnaitė, Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Arvydas Zakšenskas | https://lnk.lt/septynios-minutes-po-vidurnakcio/270752
+09-14 | Karališkas pasimatymas | N-7 | Royal Rendezvous (2023) | 1:22:27 | Tekstą vertė: Agnė Lankaitytė, Skaitė: Eidvydas Stankevičius, Garso režisierė: Viktorija Golubkevičiūtė | https://lnk.lt/karaliskas-pasimatymas/270753
+
+09-13 | Laiko kilpa | N-14 | Looper (2012) | 1:48:00 | Skaitė: Tomas Ališauskas, Garso režisierė: Olga Bulygo | https://lnk.lt/laiko-kilpa/270747
 09-13 | Ridlis. Tuščiaviduris medis | N-14 | Ridley II. The Hollow Tree | 1:29:06 | Tekstą vertė: Laura Vaštakienė, Skaitė: Gintaras Deksnys, Garso režisierius:  Germanas Solovjovas, | https://lnk.lt/ridlis-tusciaviduris-medis/270871
 
 09-10 | Profas | N-14 | Safe (2012) | 1:24:52 | Tekstą vertė: Paulius Gineitis, Skaitė: Tomas Ališauskas, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/profas/270679
