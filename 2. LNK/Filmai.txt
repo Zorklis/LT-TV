@@ -3,10 +3,15 @@ Note/Errors| Date when shown/added | LT title | Age rating/Documentary | Origina
 Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 ===2024=== https://lnk.lt/filmai
 
-09-14 | Septynios minutės po vidunakčio | N-7 | Monster Calls (2016) | 1:36:56 | Tekstą vertė: Kristina Telyčėnaitė, Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Arvydas Zakšenskas | https://lnk.lt/septynios-minutes-po-vidurnakcio/270752
-09-14 | Karališkas pasimatymas | N-7 | Royal Rendezvous (2023) | 1:22:27 | Tekstą vertė: Agnė Lankaitytė, Skaitė: Eidvydas Stankevičius, Garso režisierė: Viktorija Golubkevičiūtė | https://lnk.lt/karaliskas-pasimatymas/270753
 
-09-13 | Laiko kilpa | N-14 | Looper (2012) | 1:48:00 | Skaitė: Tomas Ališauskas, Garso režisierė: Olga Bulygo | https://lnk.lt/laiko-kilpa/270747
+09-14 | Diena, kai mes išsilaipinome mėnulyje | The Day We Walked on the Moon (2019) | 44:03 | Tekstą vertė: :( , Skaitė: :( , Garso režisierius: :( , | https://lnk.lt/diena-kai-mes-issilaipinome-menulyje/270626
+09-14 | Aferistės | N-14 | Hustlers (2019) | 1:39:01 | Tekstą vertė: Asta Biuckūnaitė(?), Skaitė: Inga Valinskienė ir Jonas Radzevičius, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/aferistes/270760
+09-14 | Somerdalio bylos. Šiaurės Kanai | N-14 | Sommerdahl III. The Cannes of the North | 1:28:08 | Tekstą vertė: Marta Martinaitė, Skaitė: Gintaras Deksnys, Garso režisierius: Domas Plančiunas, | https://lnk.lt/somerdalio-bylos-siaures-kanai/270889
+09-14 | Taksi 3 | N-7 | Taxi 3 | 1:19:02 | Tekstą vertė: Viktoras Digmanas, Skaitė: Rytis Zemkauskas, Garso režisierius: Arvydas Zakšenskas, | https://lnk.lt/taksi-3/270755
+09-14 | Karališkas pasimatymas | N-7 | Royal Rendezvous (2023) | 1:22:27 | Tekstą vertė: Agnė Lankaitytė, Skaitė: Eidvydas Stankevičius, Garso režisierė: Viktorija Golubkevičiūtė | https://lnk.lt/karaliskas-pasimatymas/270753
+09-14 | Septynios minutės po vidunakčio | N-7 | Monster Calls (2016) | 1:36:56 | Tekstą vertė: Kristina Telyčėnaitė, Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Arvydas Zakšenskas | https://lnk.lt/septynios-minutes-po-vidurnakcio/270752
+
+09-13 | Laiko kilpa | N-14 | Looper (2012) | 1:48:00 | Tekstą skaitė: Tomas Ališauskas, Garso režisierė: Olga Bulygo | https://lnk.lt/laiko-kilpa/270747
 09-13 | Ridlis. Tuščiaviduris medis | N-14 | Ridley II. The Hollow Tree | 1:29:06 | Tekstą vertė: Laura Vaštakienė, Skaitė: Gintaras Deksnys, Garso režisierius:  Germanas Solovjovas, | https://lnk.lt/ridlis-tusciaviduris-medis/270871
 
 09-10 | Profas | N-14 | Safe (2012) | 1:24:52 | Tekstą vertė: Paulius Gineitis, Skaitė: Tomas Ališauskas, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/profas/270679
