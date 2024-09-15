@@ -3,6 +3,8 @@ Note/Errors| Date when shown/added | LT title | Age rating/Documentary | Origina
 Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 ===2024=== https://lnk.lt/filmai
 
+09-15 | Svajonių išsipildymo metai | This Is the Year (2020) | 1:31:24 | Tekstą vertė: Irma Milevičiūtė, Skaitė: Eidvydas Stankevičius, Garso režisierė: Viktorija Golubkevičiūtė | https://lnk.lt/svajoniu-issipildymo-metai/270766
+
 
 09-14 | Diena, kai mes išsilaipinome mėnulyje | The Day We Walked on the Moon (2019) | 44:03 | Tekstą vertė: :( , Skaitė: :( , Garso režisierius: :( , | https://lnk.lt/diena-kai-mes-issilaipinome-menulyje/270626
 09-14 | Aferistės | N-14 | Hustlers (2019) | 1:39:01 | Tekstą vertė: Asta Biuckūnaitė(?), Skaitė: Inga Valinskienė ir Jonas Radzevičius, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/aferistes/270760
