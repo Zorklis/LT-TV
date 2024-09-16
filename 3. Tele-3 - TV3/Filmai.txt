@@ -1,43 +1,56 @@
 Format:
 Date when added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
-xx-xx | Pavadinimas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
-===2024=== https://play.tv3.lt/main/sections/filmai,2768231   OR  https://play.tv3.lt/movie/russian,4197831
+xx-xx | Pavadinimas | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | URL
+===2024=== https://play.tv3.lt/main/sections/filmai,2768231 OR https://play.tv3.lt/movie/russian,4197831
+
+09-xx |  Meilė keliaujant (2021) | Love On The Road (2021) | 1:25:25 | Išvertė: :(, Įgarsino: Vilija Ramanauskaitė, Garso režisierius: :(, [TV3 užsakymų išversta ir įgarsinta SDI media]  | https://play.tv3.lt/movie/meile-keliaujant,vod-3257624
+09-xx |  Priešrinkiminiai pažadai ir kitos melagystės  (2022) | Original | 1:28:24 | Išvertė: :(, Įgarsino: ??, Garso režisierius: :(, [išversta SDI] | https://play.tv3.lt/movie/priesrinkiminiai-pazadai-ir-kitos-melagystes,vod-6198650
+09-xx |  Pavogta disertacija | Original | 1:28:49 | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/series/pavogta-disertacija,vod-6198647
+xx-xx | Slaptasis agentas Maksas | Show Dogs (2018) | 1:28:25 | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/kids_movies/slaptasis-agentas-maksas,vod-1099385
+xx-xx | Loganų sėkmė | Logan Lucky (2017) | 1:53:46 | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/loganu-sekme,vod-1022297
+xx-xx | Šalutinis efektas | LIMITLESS (2011) | 1:40:26 | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/salutinis-efektas,vod-1022095
+
+xx-xx | Laukinė gamta. Žirafos. Švelniosios Afrikos milžinės | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/laukine-gamta-zirafos-svelniosios-afrikos-milzines-,vod-5283006
+xx-xx | Laimės pranašai | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/laimes-pranasai-,vod-5253724
+xx-xx | Šventadienio nuotaika | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/sventadienio-nuotaika-,vod-5253721
+xx-xx | Operacija Alpėse | Einsatz in den Alpen – Der Armbrustkiller | 1:30:12 | Išvertė: :(, Įgarsino: ?? (kažkoks vyras), Garso režisierius: :(, | https://play.tv3.lt/movie/alpiu-patruliai,vod-4377154
+xx-xx | Amžinos meilės paieškos | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/amzinos-meiles-paieskos-,vod-4298774
+xx-xx | Elžbieta: nenugalima karalienė | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/elzbieta-nenugalima-karaliene,vod-4002809
+xx-xx | Vardan gero, arba blogo | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/vardan-gero-arba-blogo,vod-3880433
+xx-xx | Pasiklydę Romoje | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/pasiklyde-romoje,vod-3864450
+xx-xx | Barbė. Didelis miestas, didelės svajonės | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/barbe-didelis-miestas-dideles-svajones-,vod-3617436
+xx-xx | Hipopotamų pragaras | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/hipopotamu-pragaras,episode-2897373
+xx-xx | Kriauklelių kolekcija | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/kriaukleliu-kolekcija,episode-2686846
+xx-xx | Vestuvių planuotoja | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/vestuviu-planuotoja,episode-2686794
+xx-xx | Kai ateina meilė | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/kai-ateina-meile,episode-2686768
+xx-xx | Keturkojis Kupidonas | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/keturkojis-kupidonas,episode-2686763
+xx-xx | Šokoladas vasarą | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/sokoladas-vasara,episode-2686740
+xx-xx | Vera. Slaugė iš Berlyno | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/vera-slauge-is-berlyno,episode-2686727
+xx-xx | Kanados svajonė. Viskas iš pradžių 2 | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/kanados-svajone-viskas-is-pradziu-2,episode-2686717
+xx-xx | Heidelbergo viešbutis. Atvykti ir išvykti | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/heidelbergo-viesbutis-atvykti-ir-isvykti,episode-2686714
+xx-xx | Heidelbergo viešbutis. Kramer prieš Kramerį | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/heidelbergo-viesbutis-kramer-pries-krameri,episode-2686705
+xx-xx | Vestuvių planuotoja 2 | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/vestuviu-planuotoja-2,episode-2686648
+xx-xx | Romantiškos vestuvės | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/romantiskos-vestuves,vod-2379447
+xx-xx | Vestuvinis žiedas | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/the-wedding-ring,vod-2379444
+xx-xx | Meilės žemėlapis | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/meiles-zemelapis-,vod-2379439
+xx-xx | TIkrosios meilės beieškant | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/love-in-full-swing,vod-2379438
+xx-xx | Meilė ir vertimas | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/meile-ir-vertimas-,vod-2379434
+xx-xx | Kaimo romanas | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/kaimo-romanas-,vod-2379433
+xx-xx | Sukurta su meile | Original | X:XX:XX | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/designed-with-love,vod-2379432
+xx-xx | Kalėdų senelio komanda | 14+ | The Santa's Squad (2020) | 1:26:37 | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/kaledu-senelio-komanda,vod-2379429
+xx-xx | Tik vasarai | 7+ | Just For The Summer (2019) | 1:27:45 | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/tik-vasarai,vod-1693933
+xx-xx | Tadas Blinda. Pradžia | 2011 | 14+ | 1:45:59 | Išvertė: X, Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/tadas-blinda-pradzia,vod-1021370
+xx-xx |  Juodabarzdis 2  | Original | X:XX:XX | Išvertė: X, Įgarsino: Not voiced-overed, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/juodabarzdis-2,episode-2686745
 
 
-xx-xx | Slaptasis agentas Maksas | Show Dogs (2018) | 1:28:25 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/kids_movies/slaptasis-agentas-maksas,vod-1099385
-xx-xx | Loganų sėkmė | Logan Lucky (2017) | 1:53:46 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/loganu-sekme,vod-1022297
-xx-xx | Šalutinis efektas | LIMITLESS (2011) | 1:40:26 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/salutinis-efektas,vod-1022095
 
-xx-xx | Laukinė gamta. Žirafos. Švelniosios Afrikos milžinės | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/laukine-gamta-zirafos-svelniosios-afrikos-milzines-,vod-5283006
-xx-xx | Laimės pranašai | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/laimes-pranasai-,vod-5253724
-xx-xx | Šventadienio nuotaika | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/sventadienio-nuotaika-,vod-5253721
-xx-xx | Operacija Alpėse | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/alpiu-patruliai,vod-4377154
-xx-xx | Amžinos meilės paieškos | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/amzinos-meiles-paieskos-,vod-4298774
-xx-xx | Elžbieta: nenugalima karalienė | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/elzbieta-nenugalima-karaliene,vod-4002809
-xx-xx | Vardan gero, arba blogo | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/vardan-gero-arba-blogo,vod-3880433
-xx-xx | Pasiklydę Romoje | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/pasiklyde-romoje,vod-3864450
-xx-xx | Barbė. Didelis miestas, didelės svajonės | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/barbe-didelis-miestas-dideles-svajones-,vod-3617436
-xx-xx | Hipopotamų pragaras | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/hipopotamu-pragaras,episode-2897373
-xx-xx | Kriauklelių kolekcija | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/kriaukleliu-kolekcija,episode-2686846
-xx-xx | Vestuvių planuotoja | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/vestuviu-planuotoja,episode-2686794
-xx-xx | Kai ateina meilė | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/kai-ateina-meile,episode-2686768
-xx-xx | Keturkojis Kupidonas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/keturkojis-kupidonas,episode-2686763
-xx-xx | Šokoladas vasarą | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/sokoladas-vasara,episode-2686740
-xx-xx | Vera. Slaugė iš Berlyno | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/vera-slauge-is-berlyno,episode-2686727
-xx-xx | Kanados svajonė. Viskas iš pradžių 2 | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/kanados-svajone-viskas-is-pradziu-2,episode-2686717
-xx-xx | Heidelbergo viešbutis. Atvykti ir išvykti | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/heidelbergo-viesbutis-atvykti-ir-isvykti,episode-2686714
-xx-xx | Heidelbergo viešbutis. Kramer prieš Kramerį | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/heidelbergo-viesbutis-kramer-pries-krameri,episode-2686705
-xx-xx | Vestuvių planuotoja 2 | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/vestuviu-planuotoja-2,episode-2686648
-xx-xx | Romantiškos vestuvės | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/romantiskos-vestuves,vod-2379447
-xx-xx | Vestuvinis žiedas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/the-wedding-ring,vod-2379444
-xx-xx | Meilės žemėlapis | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/meiles-zemelapis-,vod-2379439
-xx-xx | TIkrosios meilės beieškant | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/love-in-full-swing,vod-2379438
-xx-xx | Meilė ir vertimas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/meile-ir-vertimas-,vod-2379434
-xx-xx | Kaimo romanas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/kaimo-romanas-,vod-2379433
-xx-xx | Sukurta su meile | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/designed-with-love,vod-2379432
-xx-xx | Kalėdų senelio komanda | 14+ | The Santa's Squad (2020) | 1:26:37 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/kaledu-senelio-komanda,vod-2379429
-xx-xx | Tik vasarai | 7+ | Just For The Summer (2019) | 1:27:45 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/tik-vasarai,vod-1693933
-xx-xx | Tadas Blinda. Pradžia | 2011 | 14+ | 1:45:59 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://play.tv3.lt/movie/tadas-blinda-pradzia,vod-1021370
+-- https://play.tv3.lt/clips/filmai,serial-2685930 --
+xx-xx | Hipopotamų pragaras | Hippo Hell (2007) | 50:01 | Išvertė: :(, Įgarsino: X, Garso režisierius: :(, [Išverstą ir įgarsintą SDI] | https://play.tv3.lt/clips/filmai,serial-2685930/hipopotamu-pragaras,episode-2897373
+
+xx-xx | Kalėdų angelas | Angels and Ornaments (2014) | 1:25:09 | Išvertė: :(, Įgarsino: Vytas Tulevičius, Garso režisierius: :(, [Išverstą ir įgarsintą SDI] | https://play.tv3.lt/clips/filmai,serial-2685930/kaledu-angelas,episode-2686688
+xx-xx |  Meilės romanas | A Novel Romance. (2015) | 1:25:59 | Išvertė: Dangė Vitkienė, Įgarsino: Vilija Ramanauskaitė, Garso režisierius: Ramūnas Abromaitis, [Išverstą ir įgarsintą SDI] | https://play.tv3.lt/clips/filmai,serial-2685930/meiles-romanas,episode-2686291
+xx-xx |  Miegančioji gražuolė | Dornröschen [aka Sleeping Beauty.] (2008) | 1:20:10 | Išvertė: X, Įgarsino: Vilija Ramanauskaitė, Garso režisierius: X, | https://play.tv3.lt/clips/filmai,serial-2685930/miegancioji-grazuole,episode-2686239
+xx-xx |  Vestuvių planuotoja 3 | Original | 1:28:11 | Išvertė: :(, Įgarsino: Vilija Ramanauskaitė, Garso režisierius: :(, | https://play.tv3.lt/clips/filmai,serial-2685930/vestuviu-planuotoja-3,episode-2686657
 
 
 ===2023===
