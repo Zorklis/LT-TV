@@ -3,7 +3,11 @@ Note/Errors| Date when shown/added | LT title | Age rating/Documentary | Origina
 Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 ===2024=== https://lnk.lt/filmai
 
-09-19| Prancūziška žmogžudystė. Belaukiant stebuklo | N-14 | En attendant un miracle (2021) | 1:33:53 | Tekstą vertė: Inga Tuliševskaitė, Skaitė: Eidvydas Stankevičius, Garso režisierius: Germanas Solovjovas, | https://lnk.lt/prancuziska-zmogzudyste-belaukiant-stebuklo/272387
+09-20 | Operacija "Fortūna". Apgaulės menas | N-14 | Operation Fortune: Ruse de Guerre (2023) | 1:44:17 | Tekstą vertė: Erika Urbelevič, Skaitė: Inga Valinskienė ir Jonas Radzevičius, Garso režisierius: Domas Plančiūnas | https://lnk.lt/operacija-fortuna-apgaules-menas/272282
+09-20 | Ridlis. Pakvaišęs dėl meilės | N-14 | Ridley II. Fool for Love | 1:28:44 | Tekstą vertė: Laura Vaštakienė, Skaitė: Gintaras Deksnys, Garso režisierius:  Germanas Solovjovas | https://lnk.lt/ridlis-pakvaises-del-meiles/272406
+09-20 | Skeveldra | N-14 | Shrapnel (2023) | 1:24:00 | Tekstą vertė: Povilas Dikavičius, Skaitė: Tomas Ališauskas, Garso režisierius: Germanas Solovjovas | https://lnk.lt/skeveldra/272079
+
+09-19 | Prancūziška žmogžudystė. Belaukiant stebuklo | N-14 | En attendant un miracle (2021) | 1:33:53 | Tekstą vertė: Inga Tuliševskaitė, Skaitė: Eidvydas Stankevičius, Garso režisierius: Germanas Solovjovas, | https://lnk.lt/prancuziska-zmogzudyste-belaukiant-stebuklo/272387
 
 09-17 | 16 kvartalų | N-7 | 16 Blocks (2006) | 1:31:38 | Tekstą vertė: Jonas Makauskas, Skaitė: Rytis Zemkauskas, Garso režisierius: Arvydas Zakšenskas, | https://lnk.lt/16-kvartalu/272218
 
