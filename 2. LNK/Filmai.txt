@@ -3,6 +3,7 @@ Note/Errors| Date when shown/added | LT title | Age rating/Documentary | Origina
 Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 ===2024=== https://lnk.lt/filmai
 
+09-19| Prancūziška žmogžudystė. Belaukiant stebuklo | N-14 | En attendant un miracle (2021) | 1:33:53 | Tekstą vertė: Inga Tuliševskaitė, Skaitė: Eidvydas Stankevičius, Garso režisierius: Germanas Solovjovas, | https://lnk.lt/prancuziska-zmogzudyste-belaukiant-stebuklo/272387
 
 09-17 | 16 kvartalų | N-7 | 16 Blocks (2006) | 1:31:38 | Tekstą vertė: Jonas Makauskas, Skaitė: Rytis Zemkauskas, Garso režisierius: Arvydas Zakšenskas, | https://lnk.lt/16-kvartalu/272218
 
