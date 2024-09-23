@@ -3,6 +3,8 @@ Note/Errors| Date when shown/added | LT title | Age rating/Documentary | Origina
 Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 ===2024=== https://lnk.lt/filmai
 
+09-23 | Paieška | N-14 | Dig (2022) | 1:23:17 | Tekstą vertė: :(, Skaitė: Tomas Ališauskas, Garso režisierius: Viktorija Golubkevičiūtė, | https://lnk.lt/paieska/273336
+
 09-22 | Našlaitė. Pirmoji auka | S | Orphan: First Kill (2022) | 1:28:10 | Tekstą vertė: Violeta Karpavičienė, Skaitė: Tomas Ališauskas, Garso režisierius: Viktorija Golubkevičiūtė, | https://lnk.lt/naslaite-pirmoji-auka/272311
 09-22 | Kryžkelės | N-14 | Crossroads. Affaire Classee // Sophie Cross S1E2 | 44:14 | Tekstą vertė: :(, Skaitė: Gintaras Deksnys, Garso režisierius: Andrius Paulavičius, | https://lnk.lt/kryzkeles/272441
 09-22 | Kolektyvas. Medžioklė prasideda | N-14 | The Collective | 1:21:55 | Tekstą vertė: Asta Buckiūnaitė, Skaitė: Tomas Ališauskas, Garso režisierius: Viktorija Golubkevičiūtė, | https://lnk.lt/kolektyvas-medziokle-prasideda/272310
