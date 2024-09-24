@@ -2,10 +2,12 @@ Format:
 Note/Errors| Date when shown/added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
 Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 -----
- | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | 
+ | Original | 1:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | 
 https://lnk.lt/filmai
 -----
 ===2024===
+
+09-24 | Mechanikas | N-14 | The Mechanic (2011) | 1:28:56 | Tekstą vertė: Vaida Daugkaitienė, Skaitė: Gytis Jurgelevičius, Garso režisierius: Mindaugas Juška, | https://lnk.lt/mechanikas/273539
 
 09-23 | Paieška | N-14 | Dig (2022) | 1:23:17 | Tekstą vertė: :(, Skaitė: Tomas Ališauskas, Garso režisierius: Viktorija Golubkevičiūtė, | https://lnk.lt/paieska/273336
 
