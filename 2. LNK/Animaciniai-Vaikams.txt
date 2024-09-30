@@ -1,7 +1,9 @@
 Format:
-Date when added | LT title | Original Title | Time/Lenght | Voice Actor/Dubber, translation team | Link.
-xx-xx | Pavadinimas | Original | X:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
+Date when added or shown | LT title | Original Title | Time/Lenght | Voice Actor/Dubber, translation team | Link.
+xx-xx | Pavadinimas | Original | 1:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
 ===2024=== https://lnk.lt/vaikams
+
+09-29 | Balerina | Ballerina (2016) | 1:21:16 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://lnk.lt/balerina/273626
 
 09-14 | Spurguliai | Extinct (2021) | 1:17:52 | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | https://lnk.lt/spurguliai/270750
 
