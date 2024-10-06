@@ -1,4 +1,30 @@
-===2024=== 
+Piešk su Vilu
+-----
+Format:
+Date when added | LT title | Original Episode Title | Time/Lenght | Voice Actor/Dubber | Link.
+xx-xx | Serijos numeris | Pavadinimas | Original | 0X:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 
+===Season 1=== - https://epika.lrt.lt/serialai-vaikams,322/1-sezonas-odcinki,608870/sezon-1,S01,608871
+Episode 1 | Kaip piešti Kempiniuka Plačiakelni | How To Draw SpongeBob SquarePants | 06:44 | Tekstą vertė: Agnė Trimonienė, Redagavo: Neringa Petrošiūtė, Skaitė: Laurynas Janulis, Garso režisierius: Ramūnas Abromaitis, Įgarsintą LRT.| https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-1,S01E01,608907
+Episode 2 | Pavadinimas | Original | 07:31 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-2,S01E02,608910
+Episode 3 | Pavadinimas | Original | 07:10 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-3,S01E03,608909
+Episode 4 | Pavadinimas | Original | 08:08 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-4,S01E04,608912
+Episode 5 | Pavadinimas | Original | 07:29 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-5,S01E05,608886
+Episode 6 | Pavadinimas | Original | 07:06 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-6,S01E06,608872
+Episode 7 | Pavadinimas | Original | 08:52 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-7,S01E07,608890
+Episode 8 | Pavadinimas | Original | 08:22 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-8,S01E08,608889
+Episode 9 | Pavadinimas | Original | 08:34 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-9,S01E09,608891
+Episode 10 | Pavadinimas | Original | 09:11 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-10,S01E10,608908
 
+===Season 2=== - https://epika.lrt.lt/serialai-vaikams,322/2-sezonas-odcinki,608870/sezon-2,S02,608884
+Episode 1 | Pavadinimas | Original | 07:51 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-1,S02E01,608893
+Episode 2 | Pavadinimas | Original | 06:40 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-2,S02E02,608894
+Episode 3 | Pavadinimas | Original | 08:35 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-3,S02E03,608911
+Episode 4 | Pavadinimas | Original | 07:05 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-4,S02E04,608895
+Episode 5 | Pavadinimas | Original | 08:44 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-5,S02E05,608913
+Episode 6 | Pavadinimas | Original | 08:10 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-6,S02E06,608887
+Episode 7 | Pavadinimas | Original | 09:01 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-7,S02E07,608888
+Episode 8 | Pavadinimas | Original | 07:23 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-8,S02E08,608873
+Episode 9 | Pavadinimas | Original | 08:36 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-9,S02E09,608906
+Episode 10 | Pavadinimas | Original | 06:30 | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | https://epika.lrt.lt/serialai-vaikams,322/piesk-su-vilu-odcinki,608870/odcinek-10,S02E10,608892
 
