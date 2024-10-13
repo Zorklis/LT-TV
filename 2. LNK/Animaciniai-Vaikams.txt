@@ -1,7 +1,12 @@
 Format:
 Date when added or shown | LT title | Original Title | Time/Lenght | Voice Actor/Dubber, translation team | Link.
 xx-xx | Pavadinimas | Original | 1:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
+
+ | Original | 1:XX:XX | Teksta vertė: X, Skaitė/Įgarsino: X, Garso režisierius: X, | 
+
 ===2024=== https://lnk.lt/vaikams
+
+10-13 | Karalienės korgis | The Queen's Corgi (2019) | 1:19:17 | Teksta vertė: :(, Skaitė/Įgarsino: :( (Dubliuotas), Garso režisierius: :(, | https://lnk.lt/karalienes-korgis/276365
 
 10-05 | Sparnuoti herojai | Super Wings the Movie: Maximum Speed // 超级飞侠：乐迪加速 (2023) | 1:22:55 | Teksta vertė: :(, Skaitė/Įgarsino: :( (Dubliuotas), Garso režisierius: :(, | https://lnk.lt/sparnuoti-herojai/274982
 
