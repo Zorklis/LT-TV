@@ -1,10 +1,12 @@
 Format:
 Date when added | LT title | Age rating | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
-xx-xx | Pavadinimas | Original | XX:XX | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | URL
-
+xx-xx | Pavadinimas | Original | XX:XX | Tekstą vertė: X, Redagavo: X, Skaitė/Įgarsino: X , Garso režisierius: X , | URL
+----
+ | Original | 1:XX:XX | Tekstą vertė: X, Redagavo: X, Skaitė/Įgarsino: X , Garso režisierius: X , | 
 
 ===2024=== https://epika.lrt.lt/
-Spąstai | N-7 | Entrapment (1999) | 1:48:16 | Tekstą vertė: ?, Redagavo: ?, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: ?, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/spastai,751782
+
+Spąstai | N-7 | Entrapment (1999) | 1:48:16 | Tekstą vertė: Rytis Budvytis, Redagavo: Eglė Belskytė(?), Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/spastai,751782
 Sargybinis | N-7 | The Sentinel (2006) | 1:43:35 | Tekstą vertė: Rytis Budvytis, Redagavo: Inga Mataitytė, Skaitė: Lina Budzeikaitė ir Simas Stankus, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/sargybinis,751510
 Prakeikta žemė | N-14 | Vanskabte land (2022) | 2:22:38 | Vertė: Auksė Beatričė Katarskytė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/prakeikta-zeme,751313
 Liepsnojantis dangus | N-14 | Roter Himmel (2023) | 1:38:21 | Tekstą vertė: Henrikas Vilkas, Adaptavo: Vaidas Bučys, Redagavo: Angelė Kiliuvienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/liepsnojantis-dangus,751046
