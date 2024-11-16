@@ -4,7 +4,9 @@ xx-xx | Pavadinimas | Original | XX:XX | Tekstą vertė: X, Redagavo: X, Skaitė
 ----
  | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | 
 
-===2024=== https://epika.lrt.lt/
+===2024===
+2024-11-15 | Mergina traukiny | N-14 | Girl on the Train (2016) | 1:47:13 | Tekstą vertė: ?, Redagavo: ?, Skaitė: Lina Budzeikaitė ir Simas Stankus, Garso režisierius: ?, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/mergina-traukiny,757885
+
 2024-11-14 | Maža, lėta, bet užsispyrus | N-14 | Small, Slow But Steady // Keiko, me wo sumasete (2022) | 1:39:35 | Tekstą vertė: Lina Martišiūtė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/maza-leta-bet-uzsispyrus,757536
 
 Eifelis | N-14 | Eiffel (2021) | 1:43:49 | Tekstą vertė: Margiris Poviliūnas, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/eifelis,601409
