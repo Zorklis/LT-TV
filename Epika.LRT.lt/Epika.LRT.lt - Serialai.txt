@@ -1,34 +1,38 @@
 Format:
 Date when added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
 xx-xx | Pavadinimas | N-14 | Original | XX:XX | Teksta vertė: X , Skaitė/Įgarsino: X , Garso režisierius: X , | URL
+
 ===2024=== https://epika.lrt.lt/ | Just link to series in case they get removed
 
-https://epika.lrt.lt/vaidybiniai-serialai,304/treciojo-reicho-zlugimas-odcinki,679182
-https://epika.lrt.lt/dokumentiniai-serialai,303/pavojingiausi-kaliniai-pasaulyje-odcinki,705543
-https://epika.lrt.lt/dokumentiniai-serialai,303/beverley-allitt-byla-odcinki,705556
-https://epika.lrt.lt/serialai-vaikams,322/jorinde-ir-joringelis,608551
-https://epika.lrt.lt/serialai-vaikams,322/raudonkepuraite-,608550
-https://epika.lrt.lt/serialai-vaikams,322/-pelene,608582
-https://epika.lrt.lt/serialai-vaikams,322/sesetas-traukia-per-pasauli,608546
-https://epika.lrt.lt/serialai-vaikams,322/-baltuole-ir-rozyte,608549
-https://epika.lrt.lt/serialai-vaikams,322/sultene,607674
-https://epika.lrt.lt/serialai-vaikams,322/laimingasis-hansas,608545
-https://epika.lrt.lt/serialai-vaikams,322/ersketroze,607661
-https://epika.lrt.lt/serialai-vaikams,322/bremeno-muzikantai,607660
-https://epika.lrt.lt/serialai-vaikams,322/princas-su-lokio-gaurais,608544
-https://epika.lrt.lt/serialai-vaikams,322/princese-malene,608581
-https://epika.lrt.lt/serialai-vaikams,322/stebuklingas-stalelis,607664
-https://epika.lrt.lt/serialai-vaikams,322/zasiagane,607676
-https://epika.lrt.lt/serialai-vaikams,322/prasoktos-kurpaites,607609
-https://epika.lrt.lt/serialai-vaikams,322/snieguole,607662
-https://epika.lrt.lt/serialai-vaikams,322/uzkeiktas-princas,607663
-https://epika.lrt.lt/serialai-vaikams,322/apie-zveji-ir-jo-pacia-,608548
-https://epika.lrt.lt/vaidybiniai-serialai,304/maksimilijonas-valdzios-ir-meiles-zaidimas-odcinki,663319
-https://epika.lrt.lt/vaidybiniai-serialai,304/pranciskus-asyzietis-odcinki,663225
-https://epika.lrt.lt/vaidybiniai-serialai,304/derybininkas-odcinki,740591
-https://epika.lrt.lt/vaidybiniai-serialai,304/sambras-odcinki,741355
-https://epika.lrt.lt/vaidybiniai-serialai,304/marselio-policija-odcinki,741317
-https://epika.lrt.lt/dokumentiniai-serialai,303/marionetes-odcinki,741348
-https://epika.lrt.lt/vaidybiniai-serialai,304/stiksas-odcinki,753031
-https://epika.lrt.lt/vaidybiniai-serialai,304/bardo-odcinki,750704
-https://epika.lrt.lt/vaidybiniai-serialai,304/kulminacija-odcinki,750707
+
+753031 | https://epika.lrt.lt/vaidybiniai-serialai,304/stiksas-odcinki,753031
+750707 | https://epika.lrt.lt/vaidybiniai-serialai,304/kulminacija-odcinki,750707
+750704 | https://epika.lrt.lt/vaidybiniai-serialai,304/bardo-odcinki,750704
+741355 | https://epika.lrt.lt/vaidybiniai-serialai,304/sambras-odcinki,741355
+741348 | https://epika.lrt.lt/dokumentiniai-serialai,303/marionetes-odcinki,741348
+741317 | https://epika.lrt.lt/vaidybiniai-serialai,304/marselio-policija-odcinki,741317
+740591 | https://epika.lrt.lt/vaidybiniai-serialai,304/derybininkas-odcinki,740591
+705556 | https://epika.lrt.lt/dokumentiniai-serialai,303/beverley-allitt-byla-odcinki,705556
+705543 | https://epika.lrt.lt/dokumentiniai-serialai,303/pavojingiausi-kaliniai-pasaulyje-odcinki,705543
+
+679182 | https://epika.lrt.lt/vaidybiniai-serialai,304/treciojo-reicho-zlugimas-odcinki,679182
+663319 | https://epika.lrt.lt/vaidybiniai-serialai,304/maksimilijonas-valdzios-ir-meiles-zaidimas-odcinki,663319
+663225 | https://epika.lrt.lt/vaidybiniai-serialai,304/pranciskus-asyzietis-odcinki,663225
+608582 | https://epika.lrt.lt/serialai-vaikams,322/-pelene,608582
+608581 | https://epika.lrt.lt/serialai-vaikams,322/princese-malene,608581
+608551 | https://epika.lrt.lt/serialai-vaikams,322/jorinde-ir-joringelis,608551
+608550 | https://epika.lrt.lt/serialai-vaikams,322/raudonkepuraite-,608550
+608549 | https://epika.lrt.lt/serialai-vaikams,322/-baltuole-ir-rozyte,608549
+608548 | https://epika.lrt.lt/serialai-vaikams,322/apie-zveji-ir-jo-pacia-,608548
+608546 | https://epika.lrt.lt/serialai-vaikams,322/sesetas-traukia-per-pasauli,608546
+608545 | https://epika.lrt.lt/serialai-vaikams,322/laimingasis-hansas,608545
+608544 | https://epika.lrt.lt/serialai-vaikams,322/princas-su-lokio-gaurais,608544
+607676 | https://epika.lrt.lt/serialai-vaikams,322/zasiagane,607676
+607674 | https://epika.lrt.lt/serialai-vaikams,322/sultene,607674
+607664 | https://epika.lrt.lt/serialai-vaikams,322/stebuklingas-stalelis,607664
+607663 | https://epika.lrt.lt/serialai-vaikams,322/uzkeiktas-princas,607663
+607662 | https://epika.lrt.lt/serialai-vaikams,322/snieguole,607662
+607660 | https://epika.lrt.lt/serialai-vaikams,322/bremeno-muzikantai,607660
+607661 | https://epika.lrt.lt/serialai-vaikams,322/ersketroze,607661
+607609 | https://epika.lrt.lt/serialai-vaikams,322/prasoktos-kurpaites,607609
+
