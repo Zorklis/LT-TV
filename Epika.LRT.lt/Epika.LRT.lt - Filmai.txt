@@ -1,8 +1,8 @@
 Format:
-Date when added | LT title | Age rating | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
+Date when added (date) and Removed from Epika (date) | LT title | Age rating | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
 xx-xx | Pavadinimas | Original | XX:XX | Tekstą vertė: X, Redagavo: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
 ----
- | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | 
+Added (date) and Removed (date) | Pavadinimas | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | 
 
 ===2024===
 
@@ -185,7 +185,7 @@ Ant 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/ofelija,748224
 
 Pir 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-virsiausiu-dvikova-mandrilai,751115
 
-Removed (2024-11-17 23:59) Bėgančios moterys | Zeny v behu (2019) | 1:30:12 | Tekstą vertė: Valda Dulevičiūtė-Žilionė, Redagavo: Ausma Žilytė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/begancios-moterys,733759
+Removed (2024-11-17 23:59) | Bėgančios moterys | Zeny v behu (2019) | 1:30:12 | Tekstą vertė: Valda Dulevičiūtė-Žilionė, Redagavo: Ausma Žilytė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/begancios-moterys,733759
 
 2024-11-15 | Mergina traukiny | N-14 | Girl on the Train (2016) | 1:47:13 | Tekstą vertė: Vaidas Bučys, Redagavo: Ausma Žilytė, Skaitė: Lina Budzeikaitė ir Simas Stankus, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/mergina-traukiny,757885
 
