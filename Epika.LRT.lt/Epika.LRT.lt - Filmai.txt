@@ -5,6 +5,7 @@ xx-xx | Pavadinimas | Original | XX:XX | Tekstą vertė: X, Redagavo: X, Skaitė
  | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | 
 
 ===2024===
+
 https://epika.lrt.lt/dokumentiniai-filmai,266/sodybu-tustejimo-metas-ii-dalis,424877
 https://epika.lrt.lt/vaidybiniai-filmai,268/miskais-ateina-ruduo-ii-d,432453
 https://epika.lrt.lt/vaidybiniai-filmai,268/velnio-nuotaka,432477
@@ -23,23 +24,17 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/kapitonas-ir-senute,750440
 https://epika.lrt.lt/dokumentiniai-serialai,303/zmogzudyste-prie-mano-duru-odcinki,692532
 https://epika.lrt.lt/dokumentiniai-filmai,266/dangaus-sodai,753039
 https://epika.lrt.lt/dokumentiniai-filmai,266/shanzhai-ekranai,708801
-
 https://epika.lrt.lt/dokumentiniai-filmai,266/sventoji-mirtis-atstumtuju-mergele,753052
 https://epika.lrt.lt/dokumentiniai-filmai,266/potvyniu-ir-atoslugiu-karalyste-,753350
 https://epika.lrt.lt/dokumentiniai-filmai,266/mires-vilnius-bernardinu-kapiniu-istorijos,586963
 https://epika.lrt.lt/dokumentiniai-filmai,266/didziausia-vandenyno-puota,755471
-
 https://epika.lrt.lt/animaciniai-filmai,367/babauziukai-septynios-fantastiskos-istorijos,429864
 https://epika.lrt.lt/vaidybiniai-filmai,268/mazasis-princas,432467
-
 https://epika.lrt.lt/vaidybiniai-filmai,268/karalius-strazdabarzdis,607675
-
 https://epika.lrt.lt/vaidybiniai-filmai,268/nesamoniukas,624772
 https://epika.lrt.lt/vaidybiniai-filmai,268/nykstukenas,694179
 https://epika.lrt.lt/vaidybiniai-filmai,268/diena-kai-mano-tetis-virto-krumu,624782
 https://epika.lrt.lt/vaidybiniai-filmai,268/reimis-ir-dziulijet,753053
-
-
 https://epika.lrt.lt/dokumentiniai-filmai,266/homo-vilutis-su-garsiniu-vaizdavimu,673440
 https://epika.lrt.lt/dokumentiniai-filmai,266/xix-a-fotografo-palikimas-su-garsiniu-vaizdavimu,450354
 https://epika.lrt.lt/dokumentiniai-filmai,266/zydrasis-horizontas-su-garsiniu-vaizdavimu,429123
@@ -47,7 +42,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/gustavo-nuotykiai-su-garsiniu-vaizda
 https://epika.lrt.lt/vaidybiniai-filmai,268/senekos-diena-su-garsiniu-vaizdavimu,428895
 https://epika.lrt.lt/vaidybiniai-filmai,268/emilija-is-laisves-alejos-su-garsiniu-vaizdavimu,429184
 https://epika.lrt.lt/dokumentiniai-filmai,266/atminties-kilometrai-su-garsiniu-vaizdavimu,450253
-
 https://epika.lrt.lt/vaidybiniai-filmai,268/vaikai-is-amerikos-viesbucio-su-garsiniu-vaizdavimu,429182
 https://epika.lrt.lt/dokumentiniai-filmai,266/moncys-zemaitis-is-paryziaus-su-garsiniu-vaizdavimu,455697
 https://epika.lrt.lt/vaidybiniai-filmai,268/vienui-vieni-su-garsiniu-vaizdavimu,429195
@@ -72,9 +66,7 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/paskutine-atostogu-diena-su-garsiniu
 https://epika.lrt.lt/vaidybiniai-filmai,268/laiskas-ukrainai-su-garsiniu-vaizdavimu,625867
 https://epika.lrt.lt/dokumentiniai-filmai,266/dekadentas-nr-2419-su-garsiniu-vaizdavimu,670693
 https://epika.lrt.lt/vaidybiniai-filmai,268/sausis-su-garsiniu-vaizdavimu,664937
-
 https://epika.lrt.lt/vaidybiniai-filmai,268/tamsoje,679194
-
 https://epika.lrt.lt/vaidybiniai-filmai,268/veidas,577466
 https://epika.lrt.lt/vaidybiniai-filmai,268/viltis,577468
 https://epika.lrt.lt/vaidybiniai-filmai,268/kafarnaumas,433015
@@ -92,8 +84,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/proksima,577482
 https://epika.lrt.lt/animaciniai-filmai,367/vampyriukas,577650
 https://epika.lrt.lt/vaidybiniai-filmai,268/nematomas-gyvenimas,577505
 https://epika.lrt.lt/vaidybiniai-filmai,268/atsiprasome-neradome-jusu,625458
-
-
 Subtitrai - https://epika.lrt.lt/vaidybiniai-filmai,268/zvaigzdes-vidurdieni,643870
 https://epika.lrt.lt/vaidybiniai-filmai,268/amzinai-jauni,643988
 https://epika.lrt.lt/vaidybiniai-filmai,268/meiles-reikalai,643864
@@ -102,12 +92,10 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/sudegintos-sielos,663336
 https://epika.lrt.lt/vaidybiniai-filmai,268/mazoji-ledi,667195
 https://epika.lrt.lt/vaidybiniai-filmai,268/grupine-psichoterapija-miske,664771
 https://epika.lrt.lt/vaidybiniai-filmai,268/mazyte-mama,643863
-
 https://epika.lrt.lt/vaidybiniai-filmai,268/vagisiu-kaledos,600170
 https://epika.lrt.lt/dokumentiniai-filmai,266/issaugojome-kalba,600399
 https://epika.lrt.lt/vaidybiniai-filmai,268/kudikis-kaledoms,600540
 https://epika.lrt.lt/vaidybiniai-filmai,268/mecgeris-ir-negyvelis-rykliu-akvariume,624156
-https://epika.lrt.lt/vaidybiniai-filmai,268/diena-kai-mano-tetis-virto-krumu,624782
 https://epika.lrt.lt/vaidybiniai-filmai,268/kersto-kodeksas,626098
 https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-sidabro-ezero-paslaptis,626089
 https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-paskutine-kova,626106
@@ -115,8 +103,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/karolis-iv-valdzios-kaina,626107
 https://epika.lrt.lt/vaidybiniai-filmai,268/auksinis-krantas-,624177
 https://epika.lrt.lt/filmai-vaikams,410/vaiduoklis-hui-bu-ir-raganu-pilis,679635
 https://epika.lrt.lt/vaidybiniai-filmai,268/maistininke-feja,755776
-
-
 https://epika.lrt.lt/dokumentiniai-filmai,266/pinigai-uz-nieka,587137
 https://epika.lrt.lt/dokumentiniai-filmai,266/ruth-bader-ginsburg,577690
 https://epika.lrt.lt/dokumentiniai-filmai,266/rytojaus-laisve,587135
@@ -125,18 +111,10 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/rojaus-fragmentai,592515
 https://epika.lrt.lt/dokumentiniai-filmai,266/pakalbekime-apie-tvaruma,683983
 https://epika.lrt.lt/dokumentiniai-filmai,266/prezidento-vienatve,624775
 https://epika.lrt.lt/dokumentiniai-filmai,266/alma-gyvenimas--sviesos-akimirka,434030
-https://epika.lrt.lt/dokumentiniai-filmai,266/second-hand,687712
-https://epika.lrt.lt/dokumentiniai-filmai,266/sventoji-mirtis-atstumtuju-mergele,753052
-https://epika.lrt.lt/dokumentiniai-filmai,266/holovejus-moterys-uz-grotu,692556
-https://epika.lrt.lt/dokumentiniai-filmai,266/kapitonas-ir-senute,750440
-
 https://epika.lrt.lt/vaidybiniai-filmai,268/ilga-dienos-kelione-i-nakti,437195
 Subtitrai - https://epika.lrt.lt/vaidybiniai-filmai,268/olegas,593851
-https://epika.lrt.lt/vaidybiniai-filmai,268/auksinis-krantas-,624177
 https://epika.lrt.lt/vaidybiniai-filmai,268/obuoliai,643862
-https://epika.lrt.lt/vaidybiniai-filmai,268/mazyte-mama,643863
 https://epika.lrt.lt/vaidybiniai-filmai,268/gimtine,643906
-https://epika.lrt.lt/vaidybiniai-filmai,268/mazoji-ledi,667195
 https://epika.lrt.lt/vaidybiniai-filmai,268/korsikos-didysis-kunigaikstis,679624
 https://epika.lrt.lt/vaidybiniai-filmai,268/vagneriu-klanas,679164
 https://epika.lrt.lt/vaidybiniai-filmai,268/dvyniu-dienorastis,679159
@@ -144,21 +122,13 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/berlynas-1936-aisiais,679222
 https://epika.lrt.lt/vaidybiniai-filmai,268/du-gyvenimai,679156
 https://epika.lrt.lt/vaidybiniai-filmai,268/miunchenas-1972-uju-teroro-ispuolis,679221
 https://epika.lrt.lt/vaidybiniai-filmai,268/vagiliautojai,466083
-Ket 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/paryziaus-stogai,430064
 https://epika.lrt.lt/vaidybiniai-filmai,268/patvirtinta-kopija,751004
-Ant 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/ofelija,748224
 https://epika.lrt.lt/vaidybiniai-filmai,268/panele-sambon,430101
 https://epika.lrt.lt/dokumentiniai-filmai,266/paslaptingas-apuoku-pasaulis,751026
-Ant 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/desimt,750880
 https://epika.lrt.lt/vaidybiniai-filmai,268/gyvenimas-be-jango,587018
-
-
-https://epika.lrt.lt/vaidybiniai-filmai,268/as-esi-tu-su-garsiniu-vaizdavimu,429181
-https://epika.lrt.lt/vaidybiniai-filmai,268/vienui-vieni-su-garsiniu-vaizdavimu,429195
 https://epika.lrt.lt/filmai,250/nuodemes-uzkalbejimas,429794
 https://epika.lrt.lt/filmai,250/ramybe-musu-sapnuose,424807
 https://epika.lrt.lt/vaidybiniai-filmai,268/mazas-didelis-stebuklas,428522
-https://epika.lrt.lt/vaidybiniai-filmai,268/edeno-sodas-su-garsiniu-vaizdavimu,429535
 https://epika.lrt.lt/vaidybiniai-filmai,268/kita-tylos-puse-su-garsiniu-vaizdavimu,429198
 https://epika.lrt.lt/vaidybiniai-filmai,268/egle,601327
 https://epika.lrt.lt/vaidybiniai-filmai,268/elze-is-gilijos,601600
@@ -168,24 +138,16 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/izaokas,428883
 https://epika.lrt.lt/filmai,250/karaliu-pamaina,424769
 https://epika.lrt.lt/vaidybiniai-filmai,268/ekskursante,424832
 https://epika.lrt.lt/filmai,250/senekos-diena,429715
-https://epika.lrt.lt/vaidybiniai-filmai,268/gimtine,643906
-https://epika.lrt.lt/dokumentiniai-filmai,266/dekadentas-nr-2419-su-garsiniu-vaizdavimu,670693
 https://epika.lrt.lt/vaidybiniai-filmai,268/nova-lituania,429183
 https://epika.lrt.lt/filmai,250/losejas,424831
-https://epika.lrt.lt/dokumentiniai-filmai,266/second-hand,687712
 https://epika.lrt.lt/vaidybiniai-filmai,268/stebuklas,667882
 https://epika.lrt.lt/vaidybiniai-filmai,268/kita-tylos-puse,733680
-https://epika.lrt.lt/dokumentiniai-filmai,266/mires-vilnius-bernardinu-kapiniu-istorijos,586963
 https://epika.lrt.lt/animaciniai-filmai,367/matilda-ir-atsargine-galva,754587
-
 https://epika.lrt.lt/dokumentiniai-filmai,266/beglys,577478
 https://epika.lrt.lt/dokumentiniai-filmai,266/ieskomas-vairuotojas,583094
-https://epika.lrt.lt/dokumentiniai-filmai,266/miglos-vaikai,586929
-https://epika.lrt.lt/dokumentiniai-filmai,266/buti-tiesos-puseje,586964
 https://epika.lrt.lt/dokumentiniai-filmai,266/buti-tiesos-puseje,586964
 https://epika.lrt.lt/dokumentiniai-filmai,266/partizano-zmona,586951
 https://epika.lrt.lt/dokumentiniai-filmai,266/kaip-nuzudyti-zurnalista,586996
-https://epika.lrt.lt/dokumentiniai-filmai,266/rytojaus-laisve,587135
 https://epika.lrt.lt/dokumentiniai-filmai,266/martynas-levickis-desimt-tukstanciu-detaliu,602125
 https://epika.lrt.lt/dokumentiniai-filmai,266/dekadentas-nr-2419,608621
 https://epika.lrt.lt/koncertai,379/66-ieji-grammy-apdovanojimai,618018
@@ -195,37 +157,33 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/civiliu-kariuomenes-vadas,623583
 https://epika.lrt.lt/dokumentiniai-filmai,266/belarus-zhyve-baltarusiu-karas-ukrainoje,624131
 https://epika.lrt.lt/dokumentiniai-filmai,266/diena-reaktoriuje,647848
 https://epika.lrt.lt/dokumentiniai-filmai,266/is-kur-tas-svytejimas,644095
-Ant 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/chaenas--ypac-tyro-aliejaus-krastas,643866
-https://epika.lrt.lt/dokumentiniai-filmai,266/homo-vilutis-su-garsiniu-vaizdavimu,673440
 https://epika.lrt.lt/dokumentiniai-filmai,266/raudonu-ant-balto,674543
 https://epika.lrt.lt/dokumentiniai-filmai,266/silvester-belt--kelias-iki-eurovizijos,683597
-https://epika.lrt.lt/dokumentiniai-filmai,266/pakalbekime-apie-tvaruma,683983
-https://epika.lrt.lt/dokumentiniai-filmai,266/second-hand,687712
 https://epika.lrt.lt/dokumentiniai-filmai,266/as-noriu-savo-mtv,687725
 https://epika.lrt.lt/dokumentiniai-filmai,266/gyvenimas-tarp-ziedu,739853
-https://epika.lrt.lt/dokumentiniai-filmai,266/shanzhai-ekranai,708801
 https://epika.lrt.lt/dokumentiniai-filmai,266/mano-mumiai-kelione-i-troliu-mumiu-sleni,747469
-Ket 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/gamtos-titanai,748916
-https://epika.lrt.lt/dokumentiniai-filmai,266/kalnai--vartai-i-dangu,750885
-https://epika.lrt.lt/dokumentiniai-filmai,266/voveriu-isdaigos,750672
-https://epika.lrt.lt/dokumentiniai-filmai,266/paslaptingas-apuoku-pasaulis,751026
 https://epika.lrt.lt/dokumentiniai-filmai,266/demeti-ir-dryzuoti,702435
-Pir 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-virsiausiu-dvikova-mandrilai,751115
 https://epika.lrt.lt/dokumentiniai-filmai,266/jonas-zemaitis-nenugalimasis,753351
-https://epika.lrt.lt/dokumentiniai-filmai,266/potvyniu-ir-atoslugiu-karalyste-,753350
 https://epika.lrt.lt/dokumentiniai-filmai,266/bites-dienorastis,753349
-https://epika.lrt.lt/dokumentiniai-filmai,266/dangaus-sodai,753039
-https://epika.lrt.lt/dokumentiniai-filmai,266/didziausia-vandenyno-puota,755471
 https://epika.lrt.lt/dokumentiniai-filmai,266/baltasis-lokys,755758
-
-https://epika.lrt.lt/vaidybiniai-filmai,268/kudikis-kaledoms,600540
 https://epika.lrt.lt/vaidybiniai-filmai,268/sutrikusi,624174
 https://epika.lrt.lt/vaidybiniai-filmai,268/bornholmo-gatve-,664770
 https://epika.lrt.lt/vaidybiniai-filmai,268/birzelis-sausio-menesi,664754
-https://epika.lrt.lt/vaidybiniai-filmai,268/grupine-psichoterapija-miske,664771
 https://epika.lrt.lt/vaidybiniai-filmai,268/aistra,679180
-https://epika.lrt.lt/vaidybiniai-filmai,268/stebuklas,667882
 https://epika.lrt.lt/vaidybiniai-filmai,268/veidrodeli-veidrodeli,602118
+
+Ket 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/paryziaus-stogai,430064
+
+Ket 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/gamtos-titanai,748916
+
+Ant 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/chaenas--ypac-tyro-aliejaus-krastas,643866
+
+Ant 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/desimt,750880
+
+Ant 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/ofelija,748224
+
+Pir 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-virsiausiu-dvikova-mandrilai,751115
+
 Šiandien 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/begancios-moterys,733759
 https://epika.lrt.lt/vaidybiniai-filmai,268/bulis-ir-bilis,753051
 
@@ -253,13 +211,8 @@ Liepsnojantis dangus | N-14 | Roter Himmel (2023) | 1:38:21 | Tekstą vertė: He
 
 Pamfiras | N-14 | Pamfir (2022) | 1:38:55 | Tekstą vertė: Goda Grigolytė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/pamfiras,750984
 
-
 Klasikų klasika:
 https://epika.lrt.lt/vaidybiniai-filmai,268/vaidybinis-filmas-niekas-nenorejo-mirti-is-kino-juostos,432468
-https://epika.lrt.lt/vaidybiniai-filmai,268/herkus-mantas-su-garsiniu-vaizdavimu,608647
-https://epika.lrt.lt/vaidybiniai-filmai,268/velnio-nuotaka,432477
-https://epika.lrt.lt/vaidybiniai-filmai,268/vaikai-is-amerikos-viesbucio-su-garsiniu-vaizdavimu,429182
-https://epika.lrt.lt/vaidybiniai-filmai,268/vienui-vieni-su-garsiniu-vaizdavimu,429195
 https://epika.lrt.lt/vaidybiniai-filmai,268/irkos-tragedija,672988
 https://epika.lrt.lt/dokumentiniai-filmai,266/elena-keliauja-i-lietuva,692096
 https://epika.lrt.lt/vaidybiniai-filmai,268/strazdanota-vasara,432462
@@ -267,26 +220,19 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/sodybu-tustejimo-metas-i-dalis,424
 https://epika.lrt.lt/vaidybiniai-filmai,268/riesutu-duona-su-garsiniu-vaizdavimu,612850
 https://epika.lrt.lt/vaidybiniai-filmai,268/riesutu-duona-su-skn,428890
 https://epika.lrt.lt/dokumentiniai-filmai,266/medziokle--,688212
-https://epika.lrt.lt/dokumentiniai-filmai,266/medziokle--,688212
 https://epika.lrt.lt/vaidybiniai-filmai,268/vaidybinis-filmas-tadas-blinda-i-d,432460
 https://epika.lrt.lt/vaidybiniai-filmai,268/petras-kurmelis-i-d,669048
 https://epika.lrt.lt/vaidybiniai-filmai,268/petras-kurmelis-ii-d,669057
 https://epika.lrt.lt/vaidybiniai-filmai,268/miskais-ateina-ruduo-i-d,432454
 https://epika.lrt.lt/vaidybiniai-filmai,268/mars-mars-tra-ta-ta,670692
 
-
 Laisvės filmai:
-https://epika.lrt.lt/dokumentiniai-filmai,266/belarus-zhyve-baltarusiu-karas-ukrainoje,624131
 https://epika.lrt.lt/vaidybiniai-filmai,268/emilija-is-laisves-alejos-,429848
-https://epika.lrt.lt/filmai,250/senekos-diena,429715
-https://epika.lrt.lt/vaidybiniai-filmai,268/ekskursante,424832
 https://epika.lrt.lt/dokumentiniai-filmai,266/laisves-bangos,754574
 https://epika.lrt.lt/dokumentiniai-filmai,266/uz-musu-ir-jusu-laisve,429046
-https://epika.lrt.lt/vaidybiniai-filmai,268/vaikai-is-amerikos-viesbucio-su-garsiniu-vaizdavimu,429182
 https://epika.lrt.lt/dokumentiniai-filmai,266/karys,428968
 https://epika.lrt.lt/dokumentiniai-filmai,266/misija-sibiras19-paliesti-tremti,429150
 https://epika.lrt.lt/dokumentiniai-filmai,266/laisves-vaikai,429140
-
 
 „Odisėja72“ trumpametražiai filmai:
 https://epika.lrt.lt/vaidybiniai-filmai,268/fall,428884
@@ -297,7 +243,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/tuoj-busiu,428886
 https://epika.lrt.lt/vaidybiniai-filmai,268/veikejas,428872
 https://epika.lrt.lt/vaidybiniai-filmai,268/iskrova,428873
 https://epika.lrt.lt/vaidybiniai-filmai,268/ego,429521
-
 
 Lietuvos sienos:
 https://epika.lrt.lt/dokumentiniai-filmai,266/lietuvos-sienos,429028
@@ -310,8 +255,6 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/lietuvos-sienos-su-garsiniu-vaizda
 https://epika.lrt.lt/dokumentiniai-filmai,266/lietuvos-sienos-su-garsiniu-vaizdavimu,471338
 https://epika.lrt.lt/dokumentiniai-filmai,266/lietuvos-sienos-su-garsiniu-vaizdavimu,477987
 https://epika.lrt.lt/dokumentiniai-filmai,266/lietuvos-sienos-su-garsiniu-vaizdavimu,476824
-
-
 https://epika.lrt.lt/dokumentiniai-filmai,266/nuo-memelio-iki-klaipedos-po-audros,466056
 https://epika.lrt.lt/dokumentiniai-filmai,266/vilniaus-bernardinu-baznycia-architektura-ir-restauracija,429700
 https://epika.lrt.lt/dokumentiniai-filmai,266/nuo-memelio-iki-klaipedos-kylanti-puga,465982
