@@ -83,7 +83,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/geri-ketinimai,577465
 https://epika.lrt.lt/vaidybiniai-filmai,268/proksima,577482
 https://epika.lrt.lt/animaciniai-filmai,367/vampyriukas,577650
 https://epika.lrt.lt/vaidybiniai-filmai,268/nematomas-gyvenimas,577505
-https://epika.lrt.lt/vaidybiniai-filmai,268/atsiprasome-neradome-jusu,625458
 Subtitrai - https://epika.lrt.lt/vaidybiniai-filmai,268/zvaigzdes-vidurdieni,643870
 https://epika.lrt.lt/vaidybiniai-filmai,268/amzinai-jauni,643988
 https://epika.lrt.lt/vaidybiniai-filmai,268/meiles-reikalai,643864
@@ -173,6 +172,9 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/aistra,679180
 https://epika.lrt.lt/vaidybiniai-filmai,268/veidrodeli-veidrodeli,602118
 https://epika.lrt.lt/vaidybiniai-filmai,268/bulis-ir-bilis,753051
 
+
+Added (date) and Removed (2024-11-25 23:59) | Atsiprašome, neradome jūsų | Sorry We Missed You (2019) | 1:37:31 | Vertė: Julija Matulytė, tik SUBTITRAI. | https://epika.lrt.lt/vaidybiniai-filmai,268/atsiprasome-neradome-jusu,625458
+
 Added (date) and Removed (2024-11-21 23:59) | Paryžiaus stogai | Les Toits de Paris (2007) | 1:36:14 | Tekstą vertė: Marija Bogušytė, Redagavo: Angelė Kiliuvienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/paryziaus-stogai,430064
 
 Added (date) and Removed (2024-11-21 23:59) | Gamtos titanai | Mega Nature (2023) | 48:00 | Tekstą vertė: Rima Čeliauskaitė, Redagavo: Irma Nečiporenko, Skaitė: Andrius Kavaliauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/gamtos-titanai,748916
@@ -193,7 +195,7 @@ Removed (2024-11-17 23:59) | Bėgančios moterys | Zeny v behu (2019) | 1:30:12 
 
 Eifelis | N-14 | Eiffel (2021) | 1:43:49 | Tekstą vertė: Margiris Poviliūnas, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/eifelis,601409
 
-Fabianas | N-14 | Fabian oder Der Gang vor die Hunde (2021) | 2:58:21 | Tekstą vertė: Kristina Sprindžiūnaitė, Adaptavo: Vaidas Bučys, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/fabianas,754869
+Added (date) and Removed (2024-11-21 23:59) Fabianas | N-14 | Fabian oder Der Gang vor die Hunde (2021) | 2:58:21 | Tekstą vertė: Kristina Sprindžiūnaitė, Adaptavo: Vaidas Bučys, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/fabianas,754869
 
 2024-ųjų Amerikos pasirinkimas. Harris prieš Trumpą | The Choice 2024: Harris vs. Trump | 1:52:23 | Tekstą vertė: Raimondas Čiuplys, Redagavo: Robertas Gedrimas, Skaitė: Marijus Žiedas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/2024-uju-amerikos-pasirinkimas-harris-pries-trumpa,754543
 
