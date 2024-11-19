@@ -173,17 +173,17 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/aistra,679180
 https://epika.lrt.lt/vaidybiniai-filmai,268/veidrodeli-veidrodeli,602118
 https://epika.lrt.lt/vaidybiniai-filmai,268/bulis-ir-bilis,753051
 
-Ket 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/paryziaus-stogai,430064
+Added (date) and Removed (2024-11-19 23:59) | Pavadinimas | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/paryziaus-stogai,430064
 
-Ket 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/gamtos-titanai,748916
+Added (date) and Removed (2024-11-19 23:59) | Pavadinimas | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/gamtos-titanai,748916
 
-Ant 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/chaenas--ypac-tyro-aliejaus-krastas,643866
+Added (date) and Removed (2024-11-19 23:59) | Pavadinimas | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/chaenas--ypac-tyro-aliejaus-krastas,643866
 
-Ant 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/desimt,750880
+Added (date) and Removed (2024-11-19 23:59) | Pavadinimas | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/desimt,750880
 
-Ant 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/ofelija,748224
+Added (date) and Removed (2024-11-19 23:59) | Pavadinimas | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/ofelija,748224
 
-Pir 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-virsiausiu-dvikova-mandrilai,751115
+Added (date) and Removed (2024-11-18 23:59) | Gyvūnų instinktai. Viršiausių dvikova. Mandrilai | Original | X:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-virsiausiu-dvikova-mandrilai,751115
 
 Removed (2024-11-17 23:59) | Bėgančios moterys | Zeny v behu (2019) | 1:30:12 | Tekstą vertė: Valda Dulevičiūtė-Žilionė, Redagavo: Ausma Žilytė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/begancios-moterys,733759
 
