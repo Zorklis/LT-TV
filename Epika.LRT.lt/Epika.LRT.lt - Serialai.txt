@@ -15,6 +15,7 @@ xx-xx | Pavadinimas | N-14 | Original | XX:XX | Teksta vertė: X , Skaitė/Įgar
 705556 | https://epika.lrt.lt/dokumentiniai-serialai,303/beverley-allitt-byla-odcinki,705556
 705543 | https://epika.lrt.lt/dokumentiniai-serialai,303/pavojingiausi-kaliniai-pasaulyje-odcinki,705543
 
+692532 | https://epika.lrt.lt/dokumentiniai-serialai,303/zmogzudyste-prie-mano-duru-odcinki,692532
 679182 | https://epika.lrt.lt/vaidybiniai-serialai,304/treciojo-reicho-zlugimas-odcinki,679182
 663319 | https://epika.lrt.lt/vaidybiniai-serialai,304/maksimilijonas-valdzios-ir-meiles-zaidimas-odcinki,663319
 663225 | https://epika.lrt.lt/vaidybiniai-serialai,304/pranciskus-asyzietis-odcinki,663225
