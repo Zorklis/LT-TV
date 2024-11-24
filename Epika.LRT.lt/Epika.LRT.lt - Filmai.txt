@@ -2,7 +2,7 @@ Format:
 Date when added (date) and Removed from Epika (date) | LT title | Age rating | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
 xx-xx | Pavadinimas | Original | XX:XX | Tekstą vertė: X, Redagavo: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
 ----
-Added (date) and Removed (date) | Pavadinimas | Original | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | 
+Added (date) and Removed (date) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
 
 ===2024===
 
@@ -13,27 +13,20 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/moteris-ir-keturi-jos-vyrai,429721
 https://epika.lrt.lt/dokumentiniai-filmai,266/riausiu-anatomija,429077
 https://epika.lrt.lt/dokumentiniai-filmai,266/tragiski-1975-ieji-zasliu-traukiniu-katastrofa,608780
 https://epika.lrt.lt/dokumentiniai-filmai,266/pc-lietuva,428974
-https://epika.lrt.lt/dokumentiniai-serialai,303/marionetes-odcinki,741348
 https://epika.lrt.lt/dokumentiniai-filmai,266/second-hand,687712
-https://epika.lrt.lt/dokumentiniai-filmai,266/voveriu-isdaigos,750672
 https://epika.lrt.lt/dokumentiniai-filmai,266/holovejus-moterys-uz-grotu,692556
 https://epika.lrt.lt/dokumentiniai-filmai,266/kalnai--vartai-i-dangu,750885
 https://epika.lrt.lt/dokumentiniai-filmai,266/ir-karalius-pasake-koks-fantastiskas-prietaisas,750765
 https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-penkiese-geriau-nei-vienam-serengecio-lygumu-gepardai,753638
 https://epika.lrt.lt/dokumentiniai-filmai,266/kapitonas-ir-senute,750440
-https://epika.lrt.lt/dokumentiniai-serialai,303/zmogzudyste-prie-mano-duru-odcinki,692532
 https://epika.lrt.lt/dokumentiniai-filmai,266/dangaus-sodai,753039
 https://epika.lrt.lt/dokumentiniai-filmai,266/shanzhai-ekranai,708801
-https://epika.lrt.lt/dokumentiniai-filmai,266/sventoji-mirtis-atstumtuju-mergele,753052
 https://epika.lrt.lt/dokumentiniai-filmai,266/potvyniu-ir-atoslugiu-karalyste-,753350
 https://epika.lrt.lt/dokumentiniai-filmai,266/mires-vilnius-bernardinu-kapiniu-istorijos,586963
 https://epika.lrt.lt/dokumentiniai-filmai,266/didziausia-vandenyno-puota,755471
 https://epika.lrt.lt/animaciniai-filmai,367/babauziukai-septynios-fantastiskos-istorijos,429864
 https://epika.lrt.lt/vaidybiniai-filmai,268/mazasis-princas,432467
-https://epika.lrt.lt/vaidybiniai-filmai,268/karalius-strazdabarzdis,607675
-https://epika.lrt.lt/vaidybiniai-filmai,268/nesamoniukas,624772
 https://epika.lrt.lt/vaidybiniai-filmai,268/nykstukenas,694179
-https://epika.lrt.lt/vaidybiniai-filmai,268/diena-kai-mano-tetis-virto-krumu,624782
 https://epika.lrt.lt/vaidybiniai-filmai,268/reimis-ir-dziulijet,753053
 https://epika.lrt.lt/dokumentiniai-filmai,266/homo-vilutis-su-garsiniu-vaizdavimu,673440
 https://epika.lrt.lt/dokumentiniai-filmai,266/xix-a-fotografo-palikimas-su-garsiniu-vaizdavimu,450354
@@ -68,7 +61,6 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/dekadentas-nr-2419-su-garsiniu-vai
 https://epika.lrt.lt/vaidybiniai-filmai,268/sausis-su-garsiniu-vaizdavimu,664937
 https://epika.lrt.lt/vaidybiniai-filmai,268/tamsoje,679194
 https://epika.lrt.lt/vaidybiniai-filmai,268/veidas,577466
-https://epika.lrt.lt/vaidybiniai-filmai,268/viltis,577468
 https://epika.lrt.lt/vaidybiniai-filmai,268/kafarnaumas,433015
 https://epika.lrt.lt/vaidybiniai-filmai,268/tiesiog-nuostabu,577483
 https://epika.lrt.lt/vaidybiniai-filmai,268/ivykis,577504
@@ -76,7 +68,6 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/mariupolis,429055
 https://epika.lrt.lt/vaidybiniai-filmai,268/martinas-idenas,577469
 https://epika.lrt.lt/vaidybiniai-filmai,268/laukine-kriause,577562
 https://epika.lrt.lt/vaidybiniai-filmai,268/visa-tiesa-apie-diva,577548
-https://epika.lrt.lt/vaidybiniai-filmai,268/motina,577484
 https://epika.lrt.lt/vaidybiniai-filmai,268/pasaulis-priklauso-tau,577557
 https://epika.lrt.lt/dokumentiniai-filmai,266/mariupolis-2-su-garsiniu-vaizdavimu,691278
 https://epika.lrt.lt/vaidybiniai-filmai,268/geri-ketinimai,577465
@@ -86,7 +77,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/nematomas-gyvenimas,577505
 Subtitrai - https://epika.lrt.lt/vaidybiniai-filmai,268/zvaigzdes-vidurdieni,643870
 https://epika.lrt.lt/vaidybiniai-filmai,268/amzinai-jauni,643988
 https://epika.lrt.lt/vaidybiniai-filmai,268/meiles-reikalai,643864
-https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-naujas-pasaulis,626108
 https://epika.lrt.lt/vaidybiniai-filmai,268/sudegintos-sielos,663336
 https://epika.lrt.lt/vaidybiniai-filmai,268/mazoji-ledi,667195
 https://epika.lrt.lt/vaidybiniai-filmai,268/grupine-psichoterapija-miske,664771
@@ -94,11 +84,7 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/mazyte-mama,643863
 https://epika.lrt.lt/vaidybiniai-filmai,268/vagisiu-kaledos,600170
 https://epika.lrt.lt/dokumentiniai-filmai,266/issaugojome-kalba,600399
 https://epika.lrt.lt/vaidybiniai-filmai,268/kudikis-kaledoms,600540
-https://epika.lrt.lt/vaidybiniai-filmai,268/mecgeris-ir-negyvelis-rykliu-akvariume,624156
-https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-sidabro-ezero-paslaptis,626089
-https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-paskutine-kova,626106
 https://epika.lrt.lt/vaidybiniai-filmai,268/karolis-iv-valdzios-kaina,626107
-https://epika.lrt.lt/vaidybiniai-filmai,268/auksinis-krantas-,624177
 https://epika.lrt.lt/filmai-vaikams,410/vaiduoklis-hui-bu-ir-raganu-pilis,679635
 https://epika.lrt.lt/vaidybiniai-filmai,268/maistininke-feja,755776
 https://epika.lrt.lt/dokumentiniai-filmai,266/pinigai-uz-nieka,587137
@@ -113,7 +99,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/ilga-dienos-kelione-i-nakti,437195
 Subtitrai - https://epika.lrt.lt/vaidybiniai-filmai,268/olegas,593851
 https://epika.lrt.lt/vaidybiniai-filmai,268/obuoliai,643862
 https://epika.lrt.lt/vaidybiniai-filmai,268/gimtine,643906
-https://epika.lrt.lt/vaidybiniai-filmai,268/korsikos-didysis-kunigaikstis,679624
 https://epika.lrt.lt/vaidybiniai-filmai,268/vagneriu-klanas,679164
 https://epika.lrt.lt/vaidybiniai-filmai,268/dvyniu-dienorastis,679159
 https://epika.lrt.lt/vaidybiniai-filmai,268/berlynas-1936-aisiais,679222
@@ -140,7 +125,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/nova-lituania,429183
 https://epika.lrt.lt/filmai,250/losejas,424831
 https://epika.lrt.lt/vaidybiniai-filmai,268/stebuklas,667882
 https://epika.lrt.lt/vaidybiniai-filmai,268/kita-tylos-puse,733680
-https://epika.lrt.lt/animaciniai-filmai,367/matilda-ir-atsargine-galva,754587
 https://epika.lrt.lt/dokumentiniai-filmai,266/beglys,577478
 https://epika.lrt.lt/dokumentiniai-filmai,266/ieskomas-vairuotojas,583094
 https://epika.lrt.lt/dokumentiniai-filmai,266/buti-tiesos-puseje,586964
@@ -164,18 +148,58 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/demeti-ir-dryzuoti,702435
 https://epika.lrt.lt/dokumentiniai-filmai,266/jonas-zemaitis-nenugalimasis,753351
 https://epika.lrt.lt/dokumentiniai-filmai,266/bites-dienorastis,753349
 https://epika.lrt.lt/dokumentiniai-filmai,266/baltasis-lokys,755758
-https://epika.lrt.lt/vaidybiniai-filmai,268/sutrikusi,624174
 https://epika.lrt.lt/vaidybiniai-filmai,268/bornholmo-gatve-,664770
 https://epika.lrt.lt/vaidybiniai-filmai,268/birzelis-sausio-menesi,664754
 https://epika.lrt.lt/vaidybiniai-filmai,268/aistra,679180
 https://epika.lrt.lt/vaidybiniai-filmai,268/veidrodeli-veidrodeli,602118
 https://epika.lrt.lt/vaidybiniai-filmai,268/bulis-ir-bilis,753051
 
-Added (date) and Removed (Sek 00:59) | Keršto kodeksas | The Codex of Revenge // Codice Calixtino | 1:43:17 | Tekstą vertė: Marija Bogušytė, Skaitė: Ignas Ciplijauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/kersto-kodeksas,626098
-
 Added (2024-11) and Removed () | Saulėlydis (2021) | Sundown (2021) | 1:22:22 | Tekstą vertė: Laimonas Vaičius, Adaptavo: Raimondas Čiuplys, Redagavo: Ausma Žilytė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/saulelydis,672967
 
-Added (date) and Removed (2024-11-25 23:59) | Atsiprašome, neradome jūsų | Sorry We Missed You (2019) | 1:37:31 | Vertė: Julija Matulytė, tik SUBTITRAI. | https://epika.lrt.lt/vaidybiniai-filmai,268/atsiprasome-neradome-jusu,625458
+sek 00:59 - https://epika.lrt.lt/serialai-vaikams,322/zasiagane,607676
+https://epika.lrt.lt/serialai-vaikams,322/sultene,607674
+https://epika.lrt.lt/serialai-vaikams,322/ersketroze,607661
+https://epika.lrt.lt/serialai-vaikams,322/stebuklingas-stalelis,607664
+https://epika.lrt.lt/serialai-vaikams,322/prasoktos-kurpaites,607609
+https://epika.lrt.lt/serialai-vaikams,322/snieguole,607662
+https://epika.lrt.lt/serialai-vaikams,322/uzkeiktas-princas,607663
+
+Added (date) and Removed (2024-12-01? - Sek 00:59) | Vinetu. Paskutinė kova | Winnetou: The Last Shot // Winnetou. Die Letzte Kampf (3) (2016) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-paskutine-kova,626106
+
+Added (date) and Removed (2024-12-01? - Sek 00:59) | Vinetu. Sidabro ežero paslaptis | Winnetou. Das Geheimnis vom Silbersee (2) (2016) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-sidabro-ezero-paslaptis,626089
+
+Added (date) and Removed (2024-12-01? - Sek 00:59) | Vinetu. Naujas pasaulis | Winnetou and Old Shatterhand (1) // Winnetou. Eine Neue Welt (2016) | 1:56:54 | Tekstą vertė: Julija Navickaitė, Skaitė: Laurynas Janulis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-naujas-pasaulis,626108
+
+Added (date) and Removed (2024-12-01? - Sek 00:59) | Keršto kodeksas | The Codex of Revenge // Codice Calixtino (2014) | 1:43:17 | Tekstą vertė: Marija Bogušytė, Skaitė: Ignas Ciplijauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/kersto-kodeksas,626098
+
+šeš 23:59 - https://epika.lrt.lt/serialai-vaikams,322/bremeno-muzikantai,607660
+šeš 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/karalius-strazdabarzdis,607675
+
+Added (date) and Removed (date) | Sutrikusi | Schoßgebete (2015) | 1:29:17 | Tekstą vertė: Sandra Fecht, Skaitė: Darius Gumauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/sutrikusi,624174
+
+Added (date) and Removed (2024-11-30? - Šeš 23:59) | Diena, kai mano tėtis virto krūmu | The Day My Father Became a Bush // Toen mijn vader een struik werd (2016) | 1:25:34 | Tekstą vertė: Gailė Maroškaitė, Skaitė: Giedrius Arbačiauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/diena-kai-mano-tetis-virto-krumu,624782
+
+Added (date) and Removed (2024-11-30? - Šeš 23:59) | Mecgeris ir negyvėlis ryklių akvariume | Metzger and The Murderous Mountains // Der Metzger und der Tote im Haifischbeken (2015) | 1:28:04 | Tekstą vertė: Alina Baravykaitė, Skaitė: Laurynas Janulis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/mecgeris-ir-negyvelis-rykliu-akvariume,624156
+
+Added (date) and Removed (2024-11-30? - Šeš 23:59) | Šventoji Mirtis, atstumtųjų mergelė | Santa Muerte (2016) | 50:20 | Tekstą vertė: Inga Tuliševskaitė, Redagavo: Robertas Gedrimas, Skaitė: Marijus Žiedas, Garso režisierius: Ramūnas Abromatis, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/sventoji-mirtis-atstumtuju-mergele,753052
+
+Added (date) and Removed (2024-11-30? - Šeš 23:59) | Viltis | Hope // Hap (2019) | 2:00:30 | Vertė: Aušra Bagočiūnaitė, | https://epika.lrt.lt/vaidybiniai-filmai,268/viltis,577468
+
+Added (date) and Removed (2024-11-30? - Šeš 23:59) | Nesąmoniukas | Fiddlesticks // Quatsch (2014) | 1:19:03 | Tekstą vertė: Sandra Fecht, Skaitė: Giedrius Arbačiauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/nesamoniukas,624772
+
+Added (date) and Removed (2024-11-30? - Šeš 23:59) | Auksinis krantas  | Das goldene Ufer (2015) | 1:43:58 | Tekstą vertė: Robertas Bartasevičius, Skaitė: Giedrius Arbačiauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/auksinis-krantas-,624177
+
+Added (date) and Removed (2024-11-30? - Šeš 23:59) | Matilda ir atsarginė galva (2020) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | https://epika.lrt.lt/animaciniai-filmai,367/matilda-ir-atsargine-galva,754587
+
+Added (date) and Removed (2024-11-30? - Šeš 01:00) | Korsikos didysis kunigaikštis | The Obscure Life of Grand Duke of Corsica (2021) | 1:29:22 | Tekstą vertė: Tomas Jasinskis, Subtitrus rengė: Inesa Didikaitė ir Vida Fatėnienė, Redagavo: Ausma Žilytė, Skaitė: Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/korsikos-didysis-kunigaikstis,679624
+
+Added (date) and Removed (2024-11-28 - Ket 23:59) | Voverių išdaigos | Nuts about Squirrels (2012) | 48:30 | Tekstą vertė: Raimondas Čiuplys, Redagavo/(Subtitrus rengė): Aldona Jekentienė, Skaitė: Andrius Kavaliauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/voveriu-isdaigos,750672
+
+Added (date) and Removed (2024-11-26 Ant 23:59) | Motina | Mother // Madre (2019) | 2:04:19 | Vertė: Gabrielė Burbaitė | https://epika.lrt.lt/vaidybiniai-filmai,268/motina,577484
+
+Added (date) and Removed (2024-11-25 Pir 23:59) | Atsiprašome, neradome jūsų | Sorry We Missed You (2019) | 1:37:31 | Vertė: Julija Matulytė, tik SUBTITRAI. | https://epika.lrt.lt/vaidybiniai-filmai,268/atsiprasome-neradome-jusu,625458
+
+Added (date) and Removed (2024-11-24 - Sekmadienis 23:59) | Gyvūnų instinktai. Kai kviečia pabaisos. Neįprastas Japonijos Noto pusiasalio vandens pasaulis | Animal Instincts: Water World of Noto Peninsula (2017) | 52:17 | Tekstą vertė: Irma Milevičiūtė, Redagavo/(Subtitrus rengė): Karina Kropaitė ir Vincas Bazys, Skaitė: Marijus Žiedas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-kai-kviecia-pabaisos-neiprastas-japonijos-noto-pusiasalio-vandens-pasaulis,751792
 
 Added (date) and Removed (2024-11-21 23:59) | Paryžiaus stogai | Les Toits de Paris (2007) | 1:36:14 | Tekstą vertė: Marija Bogušytė, Redagavo: Angelė Kiliuvienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/paryziaus-stogai,430064
 
