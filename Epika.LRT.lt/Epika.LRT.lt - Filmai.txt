@@ -95,7 +95,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/vagisiu-kaledos,600170
 https://epika.lrt.lt/dokumentiniai-filmai,266/issaugojome-kalba,600399
 https://epika.lrt.lt/vaidybiniai-filmai,268/kudikis-kaledoms,600540
 https://epika.lrt.lt/vaidybiniai-filmai,268/mecgeris-ir-negyvelis-rykliu-akvariume,624156
-https://epika.lrt.lt/vaidybiniai-filmai,268/kersto-kodeksas,626098
 https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-sidabro-ezero-paslaptis,626089
 https://epika.lrt.lt/vaidybiniai-filmai,268/vinetu-paskutine-kova,626106
 https://epika.lrt.lt/vaidybiniai-filmai,268/karolis-iv-valdzios-kaina,626107
@@ -171,6 +170,8 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/birzelis-sausio-menesi,664754
 https://epika.lrt.lt/vaidybiniai-filmai,268/aistra,679180
 https://epika.lrt.lt/vaidybiniai-filmai,268/veidrodeli-veidrodeli,602118
 https://epika.lrt.lt/vaidybiniai-filmai,268/bulis-ir-bilis,753051
+
+Added (date) and Removed (Sek 00:59) | Keršto kodeksas | The Codex of Revenge // Codice Calixtino | 1:43:17 | Tekstą vertė: Marija Bogušytė, Skaitė: Ignas Ciplijauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/kersto-kodeksas,626098
 
 Added (2024-11) and Removed () | Saulėlydis (2021) | Sundown (2021) | 1:22:22 | Tekstą vertė: Laimonas Vaičius, Adaptavo: Raimondas Čiuplys, Redagavo: Ausma Žilytė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/saulelydis,672967
 
