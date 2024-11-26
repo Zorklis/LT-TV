@@ -105,7 +105,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/berlynas-1936-aisiais,679222
 https://epika.lrt.lt/vaidybiniai-filmai,268/du-gyvenimai,679156
 https://epika.lrt.lt/vaidybiniai-filmai,268/miunchenas-1972-uju-teroro-ispuolis,679221
 https://epika.lrt.lt/vaidybiniai-filmai,268/vagiliautojai,466083
-https://epika.lrt.lt/vaidybiniai-filmai,268/patvirtinta-kopija,751004
 https://epika.lrt.lt/vaidybiniai-filmai,268/panele-sambon,430101
 https://epika.lrt.lt/dokumentiniai-filmai,266/paslaptingas-apuoku-pasaulis,751026
 https://epika.lrt.lt/vaidybiniai-filmai,268/gyvenimas-be-jango,587018
@@ -194,6 +193,8 @@ Added (date) and Removed (2024-11-30? - Šeš 23:59) | Matilda ir atsarginė gal
 Added (date) and Removed (2024-11-30? - Šeš 01:00) | Korsikos didysis kunigaikštis | The Obscure Life of Grand Duke of Corsica (2021) | 1:29:22 | Tekstą vertė: Tomas Jasinskis, Subtitrus rengė: Inesa Didikaitė ir Vida Fatėnienė, Redagavo: Ausma Žilytė, Skaitė: Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/korsikos-didysis-kunigaikstis,679624
 
 Added (date) and Removed (2024-11-28 - Ket 23:59) | Voverių išdaigos | Nuts about Squirrels (2012) | 48:30 | Tekstą vertė: Raimondas Čiuplys, Redagavo/(Subtitrus rengė): Aldona Jekentienė, Skaitė: Andrius Kavaliauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/voveriu-isdaigos,750672
+
+Added (date) and Removed (2024-11-26 Ant 23:59) | Patvirtinta kopija | Copie conforme (2010) | 1:42:03 | Tekstą vertė: Jūratė Krikščiūnaitė, Skaitė: Aldona Vilutytė, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/patvirtinta-kopija,751004
 
 Added (date) and Removed (2024-11-26 Ant 23:59) | Motina | Mother // Madre (2019) | 2:04:19 | Vertė: Gabrielė Burbaitė | https://epika.lrt.lt/vaidybiniai-filmai,268/motina,577484
 
