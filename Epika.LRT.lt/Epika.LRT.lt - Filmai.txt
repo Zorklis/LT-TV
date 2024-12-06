@@ -2,9 +2,11 @@ Format:
 Date when added (date) and Removed from Epika (date) | LT title | Age rating | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
 xx-xx | Pavadinimas | Original | XX:XX | Tekstą vertė: X, Redagavo: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
 ----
-Added (date) and Removed (date) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
+Added (date) and Removed (date) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
 
 ===2024===
+Added (2024-12-06) and Removed (2024-??-??) | Kosta Brava, Libanas | Costa Brava, Lebanon (2021) | 1:40:49 | Tekstą vertė: Vytautas Stankus, Redagavo: Angelė Kiliuvienė, Subtitrai: Karina Kropaitė ir Rimas Valaitis, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/kosta-brava-libanas,768064
+
 Added (2024-11-28) and Removed (date) | Vieni metai, viena naktis | One Year, One Night // Un ano, una noche (2022) | 2:10:07 | Tekstą vertė: Marija Bogušytė, Redagavo: Angelė Kiliuvienė, Subtitrus rengė: Karina Kropaitė ir Česlovas Juršėnienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/vieni-metai-viena-naktis,764295
 
 https://epika.lrt.lt/dokumentiniai-filmai,266/sodybu-tustejimo-metas-ii-dalis,424877
