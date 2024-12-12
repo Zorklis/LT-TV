@@ -1,16 +1,19 @@
 Format:
-Date when added (date) and Removed from Epika (date) | LT title | Age rating | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
-xx-xx | Pavadinimas | Original | XX:XX | Tekstą vertė: X, Redagavo: X, Skaitė/Įgarsino: X, Garso režisierius: X, | URL
+Month gap - 3 spaces, gap between days - 2 spaces | for readibility
 ----
-Added (date) and Removed (date) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
+Added (2024-??-??) and Removed (2024-??-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
+----
 
 ===2024===
-Added (2024-12-07) and Removed (2024-12-13) | Elektra | Elektra (2005) | N-14 | 1:32:47 | Tekstą vertė: Rytis Budvytis, Redagavo: Inga Mataitytė, Skaitė: Andrius Kavaliauskas ir Evelina Stankūnaitė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/elektra,768430
 
-Added (2024-12-06) and Removed (2024-??-??) | Kosta Brava, Libanas | Costa Brava, Lebanon (2021) | 1:40:49 | Tekstą vertė: Vytautas Stankus, Redagavo: Angelė Kiliuvienė, Subtitrai: Karina Kropaitė ir Rimas Valaitis, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/kosta-brava-libanas,768064
 
-Added (2024-11-28) and Removed (date) | Vieni metai, viena naktis | One Year, One Night // Un ano, una noche (2022) | 2:10:07 | Tekstą vertė: Marija Bogušytė, Redagavo: Angelė Kiliuvienė, Subtitrus rengė: Karina Kropaitė ir Česlovas Juršėnienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/vieni-metai-viena-naktis,764295
-
+https://epika.lrt.lt/dokumentiniai-filmai,266/florida-sauletoji-valstija,753926
+https://epika.lrt.lt/dokumentiniai-filmai,266/zarasai-simtmecio-dainu-sventeje,764192
+https://epika.lrt.lt/dokumentiniai-filmai,266/rimas-kurtinaitis-krepsinis--mano-gyvenimas,764198
+https://epika.lrt.lt/dokumentiniai-filmai,266/airija-is-paukscio-skrydzio,764241
+https://epika.lrt.lt/dokumentiniai-filmai,266/islandija-is-paukscio-skrydzio,680040
+https://epika.lrt.lt/dokumentiniai-filmai,266/velsas-is-paukscio-skrydzio,764257
+https://epika.lrt.lt/dokumentiniai-filmai,266/astra,764197
 https://epika.lrt.lt/dokumentiniai-filmai,266/sodybu-tustejimo-metas-ii-dalis,424877
 https://epika.lrt.lt/vaidybiniai-filmai,268/miskais-ateina-ruduo-ii-d,432453
 https://epika.lrt.lt/vaidybiniai-filmai,268/velnio-nuotaka,432477
@@ -73,7 +76,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/visa-tiesa-apie-diva,577548
 https://epika.lrt.lt/vaidybiniai-filmai,268/pasaulis-priklauso-tau,577557
 https://epika.lrt.lt/dokumentiniai-filmai,266/mariupolis-2-su-garsiniu-vaizdavimu,691278
 https://epika.lrt.lt/vaidybiniai-filmai,268/geri-ketinimai,577465
-https://epika.lrt.lt/vaidybiniai-filmai,268/proksima,577482
 https://epika.lrt.lt/animaciniai-filmai,367/vampyriukas,577650
 https://epika.lrt.lt/vaidybiniai-filmai,268/nematomas-gyvenimas,577505
 Subtitrai - https://epika.lrt.lt/vaidybiniai-filmai,268/zvaigzdes-vidurdieni,643870
@@ -89,7 +91,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/kudikis-kaledoms,600540
 https://epika.lrt.lt/filmai-vaikams,410/vaiduoklis-hui-bu-ir-raganu-pilis,679635
 https://epika.lrt.lt/vaidybiniai-filmai,268/maistininke-feja,755776
 https://epika.lrt.lt/dokumentiniai-filmai,266/pinigai-uz-nieka,587137
-https://epika.lrt.lt/dokumentiniai-filmai,266/ruth-bader-ginsburg,577690
 https://epika.lrt.lt/dokumentiniai-filmai,266/rytojaus-laisve,587135
 https://epika.lrt.lt/dokumentiniai-filmai,266/miglos-vaikai,586929
 https://epika.lrt.lt/dokumentiniai-filmai,266/rojaus-fragmentai,592515
@@ -106,7 +107,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/berlynas-1936-aisiais,679222
 https://epika.lrt.lt/vaidybiniai-filmai,268/du-gyvenimai,679156
 https://epika.lrt.lt/vaidybiniai-filmai,268/miunchenas-1972-uju-teroro-ispuolis,679221
 https://epika.lrt.lt/vaidybiniai-filmai,268/vagiliautojai,466083
-https://epika.lrt.lt/dokumentiniai-filmai,266/paslaptingas-apuoku-pasaulis,751026
 https://epika.lrt.lt/vaidybiniai-filmai,268/gyvenimas-be-jango,587018
 https://epika.lrt.lt/filmai,250/nuodemes-uzkalbejimas,429794
 https://epika.lrt.lt/filmai,250/ramybe-musu-sapnuose,424807
@@ -141,7 +141,6 @@ https://epika.lrt.lt/dokumentiniai-filmai,266/raudonu-ant-balto,674543
 https://epika.lrt.lt/dokumentiniai-filmai,266/silvester-belt--kelias-iki-eurovizijos,683597
 https://epika.lrt.lt/dokumentiniai-filmai,266/as-noriu-savo-mtv,687725
 https://epika.lrt.lt/dokumentiniai-filmai,266/gyvenimas-tarp-ziedu,739853
-https://epika.lrt.lt/dokumentiniai-filmai,266/mano-mumiai-kelione-i-troliu-mumiu-sleni,747469
 https://epika.lrt.lt/dokumentiniai-filmai,266/jonas-zemaitis-nenugalimasis,753351
 https://epika.lrt.lt/dokumentiniai-filmai,266/bites-dienorastis,753349
 https://epika.lrt.lt/dokumentiniai-filmai,266/baltasis-lokys,755758
@@ -149,25 +148,72 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/bornholmo-gatve-,664770
 https://epika.lrt.lt/vaidybiniai-filmai,268/birzelis-sausio-menesi,664754
 https://epika.lrt.lt/vaidybiniai-filmai,268/aistra,679180
 https://epika.lrt.lt/vaidybiniai-filmai,268/veidrodeli-veidrodeli,602118
-https://epika.lrt.lt/vaidybiniai-filmai,268/bulis-ir-bilis,753051
+
+Added (2024-12-12) and Removed (date) | Penki velniai | Les cinq diables (2022) | 1:36:27 | Tekstą vertė: Julius Jaunius, Adaptavo: Vaidas Bučys, Redagavo: Rūta Radvilienė, Subtitrus rengė: Indrė Arbačiauskienė, Skaitė: Evelina Stankūnaitė ir Andrius Kavaliauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/penki-velniai,770705
+
+Added (2024-12-06) and Removed (date) | Kosta Brava, Libanas | Costa Brava, Lebanon (2021) | 1:40:49 | Tekstą vertė: Vytautas Stankus, Redagavo: Angelė Kiliuvienė, Subtitrai: Karina Kropaitė ir Rimas Valaitis, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/kosta-brava-libanas,768064
+
+Added (2024-11-28) and Removed (date) | Vieni metai, viena naktis | One Year, One Night // Un ano, una noche (2022) | 2:10:07 | Tekstą vertė: Marija Bogušytė, Redagavo: Angelė Kiliuvienė, Subtitrus rengė: Karina Kropaitė ir Česlovas Juršėnienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/vieni-metai-viena-naktis,764295
 
 Added (2024-11) and Removed () | Saulėlydis (2021) | Sundown (2021) | 1:22:22 | Tekstą vertė: Laimonas Vaičius, Adaptavo: Raimondas Čiuplys, Redagavo: Ausma Žilytė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/saulelydis,672967
+---- (Below) Films leaving soon, or left already.
 
-šeš 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/beglys,577478
 
-pen 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/drasiasirdis,764302
+Added (2024-??-??) and Removed (2024-12-19 Ketvirtadienis 23:59) | Šiaurės Ispanija iš paukščio skrydžio | North Spain from Above (2021) | 52:20 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/siaures-ispanija-is-paukscio-skrydzio,758021
 
-pen 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/panele-sambon,430101
+Added (2024-??-??) and Removed (2024-12-18 Trečiadienis 23:59) | Pietų Ispanija iš paukščio skrydžio | South Spain from Above (2021) | 52:20 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/pietu-ispanija-is-paukscio-skrydzio,758016
 
-ket 23:59 - https://epika.lrt.lt/dokumentiniai-filmai,266/kalnai--vartai-i-dangu,750885
+
+Added (2024-??-??) and Removed (2024-12-17 Antradienis 23:59) | Mano Mumiai. Kelionė į „Trolių Mumių slėnį“ | My Moomin – Journey to Moominvalley (2019) | 57:03 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/mano-mumiai-kelione-i-troliu-mumiu-sleni,747469
+
+
+Added (2024-??-??) and Removed (2024-12-17 Antradienis 23:59) | Bulis ir Bilis | Boule & Bill / Boule et Bill (2013) | 1:22:07 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/bulis-ir-bilis,753051
+
+
+Added (2024-??-??) and Removed (2024-12-17 Antradienis 23:59) | Proksima | Proxima (2019) | 1:43:09 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/proksima,577482
+
+
+Added (2024-??-??) and Removed (2024-12-16 Pirmadienis 23:59) | Liepsnojantis dangus | N-14 | Roter Himmel (2023) | 1:38:21 | Tekstą vertė: Henrikas Vilkas, Adaptavo: Vaidas Bučys, Redagavo: Angelė Kiliuvienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/liepsnojantis-dangus,751046
+
+
+Added (2024-??-??) and Removed (2024-12-15 Sekmadienis 00:59) | Ruth Bader Ginsburg | Ruth Bader Ginsburg (2018) | 1:34:13 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/ruth-bader-ginsburg,577690
+
+
+Added (2024-??-??) and Removed (2024-12-14 Šeštadienis 23:59) | Tigras, kuris atėjo arbatos | The Tiger Who Came to Tea (2019) | 24:10 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/animaciniai-filmai,367/tigras-kuris-atejo-arbatos,769193
+
+
+Added (2024-??-??) and Removed (2024-12-14 Šeštadienis 23:59) | Kapitonas. Pauliaus Jankūno istorija | 1:45:00 | LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/kapitonas-pauliaus-jankuno-istorija,764204
+
+
+Added (2024-12-07) and Removed (2024-12-13 23:59) | Elektra | Elektra (2005) | N-14 | 1:32:47 | Tekstą vertė: Rytis Budvytis, Redagavo: Inga Mataitytė, Skaitė: Andrius Kavaliauskas ir Evelina Stankūnaitė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/elektra,768430
+
+
+Added (2024-??-??) and Removed (2024-12-12 23:59) | Paslaptingas apuokų pasaulis | The Secret Life Of Owls (2017) | 47:30 | Tekstą vertė: Rima Čeliauskaitė, Redagavo ir Subtitrai: Irma Nečiporenko, Subtitrai: ir Rimas Valaitis, Skaitė: Andrius Kavaliauskas, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/paslaptingas-apuoku-pasaulis,751026
+
+
+Added (2024-??-??) and Removed (2024-12-07 Šeštadienis 23:59) | Bėglys | Flee // Flugt (2021) | 1:28:57 | Tekstą vertė: Irma Milevičiūtė, Redagavo: Donata Katinaitė, Skaitė: Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/beglys,577478
+
+
+Added (2024-??-??) and Removed (2024-12-06 Penktadienis 23:59) | Drąsiaširdis | Daredevil (2003) | 1:39:17 | Tekstą vertė: Rytis Budvytis, Redagavo: Inga Mataitytė, Skaitė: Lina Budzeikaitė ir Simas Stankus, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/drasiasirdis,764302
+
+
+Added (2024-??-??) and Removed (2024-12-06 Penktadienis 23:59) | Panelė Šambon | Madmoiselle Chambon (2009) | 1:36:05 | Tekstą vertė: Marija Bogušytė, Redagavo: Angelė Kiliuvienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/panele-sambon,430101
+
+
+Added (2024-??-??) and Removed (2024-12-05 Ketvirtadienis 23:59) | Kalnai – vartai į dangų | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/kalnai--vartai-i-dangu,750885
+
 
 Added (date) and Removed (2024-12-04 23:59) | Dėmėti ir dryžuoti | Spots and Stripes (2023) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/demeti-ir-dryzuoti,702435
 
+
 Added (date) and Removed (2024-12-04 23:59) | 2024-ųjų Amerikos pasirinkimas. Harris prieš Trumpą | The Choice 2024: Harris vs. Trump | 1:52:23 | Tekstą vertė: Raimondas Čiuplys, Redagavo: Robertas Gedrimas, Skaitė: Marijus Žiedas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/2024-uju-amerikos-pasirinkimas-harris-pries-trumpa,754543
+
 
 pir 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/reimis-ir-dziulijet,753053
 
+
 Added (date) and Removed (2024-12-01 - Sek 23:59) | Gyvūnų instinktai. Penkiese geriau nei vienam. Serengečio lygumų gepardai | Animal Instincts: Cheetahs of the Serengeti Plain (2017) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-penkiese-geriau-nei-vienam-serengecio-lygumu-gepardai,753638
+
 
 
 Added (date) and Removed (2024-12-01 - Sek 00:59) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/serialai-vaikams,322/zasiagane,607676
@@ -205,7 +251,7 @@ Added (date) and Removed (2024-11-30 - Šeš 23:59) | Viltis | Hope // Hap (2019
 
 Added (date) and Removed (2024-11-30 - Šeš 23:59) | Nesąmoniukas | Fiddlesticks // Quatsch (2014) | 1:19:03 | Tekstą vertė: Sandra Fecht, Skaitė: Giedrius Arbačiauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/nesamoniukas,624772
 
-Added (date) and Removed (2024-11-30 - Šeš 23:59) | Auksinis krantas  | Das goldene Ufer (2015) | 1:43:58 | Tekstą vertė: Robertas Bartasevičius, Skaitė: Giedrius Arbačiauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/auksinis-krantas-,624177
+Added (date) and Removed (2024-11-30 - Šeš 23:59) | Auksinis krantas | Das goldene Ufer (2015) | 1:43:58 | Tekstą vertė: Robertas Bartasevičius, Skaitė: Giedrius Arbačiauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/auksinis-krantas-,624177
 
 Added (date) and Removed (2024-11-30 - Šeš 23:59) | Matilda ir atsarginė galva (2020) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | https://epika.lrt.lt/animaciniai-filmai,367/matilda-ir-atsargine-galva,754587
 
@@ -252,8 +298,6 @@ Spąstai | N-7 | Entrapment (1999) | 1:48:16 | Tekstą vertė: Rytis Budvytis, R
 Sargybinis | N-7 | The Sentinel (2006) | 1:43:35 | Tekstą vertė: Rytis Budvytis, Redagavo: Inga Mataitytė, Skaitė: Lina Budzeikaitė ir Simas Stankus, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/sargybinis,751510
 
 Prakeikta žemė | N-14 | Vanskabte land (2022) | 2:22:38 | Vertė: Auksė Beatričė Katarskytė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/prakeikta-zeme,751313
-
-Liepsnojantis dangus | N-14 | Roter Himmel (2023) | 1:38:21 | Tekstą vertė: Henrikas Vilkas, Adaptavo: Vaidas Bučys, Redagavo: Angelė Kiliuvienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/liepsnojantis-dangus,751046
 
 Pamfiras | N-14 | Pamfir (2022) | 1:38:55 | Tekstą vertė: Goda Grigolytė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/pamfiras,750984
 
