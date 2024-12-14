@@ -1,5 +1,5 @@
 Format:
-Month gap - 3 spaces, gap between days - 2 spaces | for readibility
+Month gap - 3 spaces, gap between days - 2 spaces, if same day just 1 gap between titles | for readibility
 ----
 Added (2024-??-??) and Removed (2024-??-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
 ----
@@ -166,9 +166,7 @@ Added (2024-??-??) and Removed (2024-12-18 Trečiadienis 23:59) | Pietų Ispanij
 
 Added (2024-??-??) and Removed (2024-12-17 Antradienis 23:59) | Mano Mumiai. Kelionė į „Trolių Mumių slėnį“ | My Moomin – Journey to Moominvalley (2019) | 57:03 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/mano-mumiai-kelione-i-troliu-mumiu-sleni,747469
 
-
 Added (2024-??-??) and Removed (2024-12-17 Antradienis 23:59) | Bulis ir Bilis | Boule & Bill / Boule et Bill (2013) | 1:22:07 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/bulis-ir-bilis,753051
-
 
 Added (2024-??-??) and Removed (2024-12-17 Antradienis 23:59) | Proksima | Proxima (2019) | 1:43:09 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/proksima,577482
 
@@ -176,11 +174,10 @@ Added (2024-??-??) and Removed (2024-12-17 Antradienis 23:59) | Proksima | Proxi
 Added (2024-??-??) and Removed (2024-12-16 Pirmadienis 23:59) | Liepsnojantis dangus | N-14 | Roter Himmel (2023) | 1:38:21 | Tekstą vertė: Henrikas Vilkas, Adaptavo: Vaidas Bučys, Redagavo: Angelė Kiliuvienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/liepsnojantis-dangus,751046
 
 
-Added (2024-??-??) and Removed (2024-12-15 Sekmadienis 00:59) | Ruth Bader Ginsburg | Ruth Bader Ginsburg (2018) | 1:34:13 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/ruth-bader-ginsburg,577690
+Added (2024-??-??) and Removed (2024-12-15 Sekmadienis 00:59) | Ruth Bader Ginsburg | Ruth Bader Ginsburg (2018) | 1:34:13 | Tekstą vertė: Rima Čeliauskaitė, Redagavo: Neringa Petrošiūtė, Skaitė: Regina Jokubauskaitė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/ruth-bader-ginsburg,577690
 
 
 Added (2024-??-??) and Removed (2024-12-14 Šeštadienis 23:59) | Tigras, kuris atėjo arbatos | The Tiger Who Came to Tea (2019) | 24:10 | Tekstą vertė: Audronė Šepetė, Redagavo: Kristina Janulytė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/animaciniai-filmai,367/tigras-kuris-atejo-arbatos,769193
-
 
 Added (2024-??-??) and Removed (2024-12-14 Šeštadienis 23:59) | Kapitonas. Pauliaus Jankūno istorija | 1:45:00 | LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/kapitonas-pauliaus-jankuno-istorija,764204
 
@@ -215,7 +212,6 @@ pir 23:59 - https://epika.lrt.lt/vaidybiniai-filmai,268/reimis-ir-dziulijet,7530
 Added (date) and Removed (2024-12-01 - Sek 23:59) | Gyvūnų instinktai. Penkiese geriau nei vienam. Serengečio lygumų gepardai | Animal Instincts: Cheetahs of the Serengeti Plain (2017) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-penkiese-geriau-nei-vienam-serengecio-lygumu-gepardai,753638
 
 
-
 Added (date) and Removed (2024-12-01 - Sek 00:59) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/serialai-vaikams,322/zasiagane,607676
 Added (date) and Removed (2024-12-01 - Sek 00:59) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/serialai-vaikams,322/sultene,607674
 Added (date) and Removed (2024-12-01 - Sek 00:59) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/serialai-vaikams,322/ersketroze,607661
@@ -234,8 +230,9 @@ Added (date) and Removed (2024-12-01 - Sek 00:59) | Vinetu. Naujas pasaulis | Wi
 
 Added (date) and Removed (2024-12-01 - Sek 00:59) | Keršto kodeksas | The Codex of Revenge // Codice Calixtino (2014) | 1:43:17 | Tekstą vertė: Marija Bogušytė, Skaitė: Ignas Ciplijauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/kersto-kodeksas,626098
 
-==Gruodis==
 
+
+==Gruodis==
 Added (date) and Removed (2024-11-30 - Šeš 23:59) | Bremeno muzikantai | Die Bremer Stadtmusikanten (2009) | 58:20 | Tekstą vertė: Alina Baravykaitė, Skaitė: Giedrius Arbačiauskas, Įgarsinta LRT | https://epika.lrt.lt/serialai-vaikams,322/bremeno-muzikantai,607660
 Added (date) and Removed (2024-11-30 - Šeš 23:59) | Karalius Strazdabarzdis | König Drosselbart (2008) | 58:34 | Tekstą vertė: Alina Baravykaitė, Skaitė: Giedrius Arbačiauskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/karalius-strazdabarzdis,607675
 
