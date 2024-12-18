@@ -1,7 +1,7 @@
 Format:
 Month gap - 3 spaces, gap between days - 2 spaces, if same day just 1 gap between titles | for readibility
 ----
-Added (2024-??-??) and Removed (2024-??-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
+Added (2024-??-??) and Removed (2024-12-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
 ----
 
 ===2024===
@@ -17,9 +17,15 @@ Added (2024-11) and Removed () | Saulėlydis (2021) | Sundown (2021) | 1:22:22 |
 ---- (Below) Films leaving soon, or left already.
 
 
+Added (2024-??-??) and Removed (2024-12-22 23:59) | Prakeikta žemė | N-14 | Vanskabte land (2022) | 2:22:38 | Vertė: Auksė Beatričė Katarskytė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/prakeikta-zeme,751313
+
+Added (2024-??-??) and Removed (2024-12-22 00:59) | Kaip nužudyti žurnalistą | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/kaip-nuzudyti-zurnalista,586996
+
+
 Added (2024-??-??) and Removed (2024-12-19 Ketvirtadienis 23:59) | Šiaurės Ispanija iš paukščio skrydžio | North Spain from Above (2021) | 52:20 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/siaures-ispanija-is-paukscio-skrydzio,758021
 
-Added (2024-??-??) and Removed (2024-12-18 Trečiadienis 23:59) | Pietų Ispanija iš paukščio skrydžio | South Spain from Above (2021) | 52:20 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/pietu-ispanija-is-paukscio-skrydzio,758016
+
+Added (2024-??-??) and Removed (2024-12-18 Trečiadienis 23:59) | Pietų Ispanija iš paukščio skrydžio | South Spain from Above (2021) | 52:20 | Tekstą vertė: Irma Milevičiūtė, Redagavo: Irma Nečiporenko, Subtitrai: Irma Nečiporenko ir Vincas Bazys, Skaitė: Laurynas Janulis, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/pietu-ispanija-is-paukscio-skrydzio,758016
 
 
 Added (2024-??-??) and Removed (2024-12-17 Antradienis 23:59) | Mano Mumiai. Kelionė į „Trolių Mumių slėnį“ | My Moomin – Journey to Moominvalley (2019) | 57:03 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/mano-mumiai-kelione-i-troliu-mumiu-sleni,747469
@@ -152,8 +158,6 @@ Spąstai | N-7 | Entrapment (1999) | 1:48:16 | Tekstą vertė: Rytis Budvytis, R
 
 Sargybinis | N-7 | The Sentinel (2006) | 1:43:35 | Tekstą vertė: Rytis Budvytis, Redagavo: Inga Mataitytė, Skaitė: Lina Budzeikaitė ir Simas Stankus, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/sargybinis,751510
 
-Prakeikta žemė | N-14 | Vanskabte land (2022) | 2:22:38 | Vertė: Auksė Beatričė Katarskytė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/prakeikta-zeme,751313
-
 Pamfiras | N-14 | Pamfir (2022) | 1:38:55 | Tekstą vertė: Goda Grigolytė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/pamfiras,750984
 ----
 
@@ -279,7 +283,6 @@ https://epika.lrt.lt/vaidybiniai-filmai,268/kita-tylos-puse,733680
 https://epika.lrt.lt/dokumentiniai-filmai,266/ieskomas-vairuotojas,583094
 https://epika.lrt.lt/dokumentiniai-filmai,266/buti-tiesos-puseje,586964
 https://epika.lrt.lt/dokumentiniai-filmai,266/partizano-zmona,586951
-https://epika.lrt.lt/dokumentiniai-filmai,266/kaip-nuzudyti-zurnalista,586996
 https://epika.lrt.lt/dokumentiniai-filmai,266/martynas-levickis-desimt-tukstanciu-detaliu,602125
 https://epika.lrt.lt/dokumentiniai-filmai,266/dekadentas-nr-2419,608621
 https://epika.lrt.lt/koncertai,379/66-ieji-grammy-apdovanojimai,618018
