@@ -22,7 +22,7 @@ Added (2024-??-??) and Removed (2024-12-22 23:59) | Prakeikta žemė | N-14 | Va
 Added (2024-??-??) and Removed (2024-12-22 00:59) | Kaip nužudyti žurnalistą | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/kaip-nuzudyti-zurnalista,586996
 
 
-Added (2024-??-??) and Removed (2024-12-19 Ketvirtadienis 23:59) | Šiaurės Ispanija iš paukščio skrydžio | North Spain from Above (2021) | 52:20 | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/siaures-ispanija-is-paukscio-skrydzio,758021
+Added (2024-??-??) and Removed (2024-12-19 Ketvirtadienis 23:59) | Šiaurės Ispanija iš paukščio skrydžio | North Spain from Above (2021) | 52:20 | Tekstą vertė: Irma Milevičiūtė, Redagavo: Irma Nečiporenko, Subtitrai: Irma Nečiporenko ir Vida Fatėnienė, Skaitė: Laurynas Janulis, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/siaures-ispanija-is-paukscio-skrydzio,758021
 
 
 Added (2024-??-??) and Removed (2024-12-18 Trečiadienis 23:59) | Pietų Ispanija iš paukščio skrydžio | South Spain from Above (2021) | 52:20 | Tekstą vertė: Irma Milevičiūtė, Redagavo: Irma Nečiporenko, Subtitrai: Irma Nečiporenko ir Vincas Bazys, Skaitė: Laurynas Janulis, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/pietu-ispanija-is-paukscio-skrydzio,758016
@@ -161,6 +161,8 @@ Sargybinis | N-7 | The Sentinel (2006) | 1:43:35 | Tekstą vertė: Rytis Budvyti
 Pamfiras | N-14 | Pamfir (2022) | 1:38:55 | Tekstą vertė: Goda Grigolytė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/pamfiras,750984
 ----
 
+https://epika.lrt.lt/dokumentiniai-filmai,266/vitalius-ir-albinas-52-metus-trunkanti-meiles-istorija,773441
+https://epika.lrt.lt/dokumentiniai-filmai,266/dievo-motinos-katedra-prisikelimas,769200
 https://epika.lrt.lt/vaidybiniai-filmai,268/meilei-senatis-negalioja,630318
 https://epika.lrt.lt/vaidybiniai-filmai,268/saugokis-mamos,733734
 https://epika.lrt.lt/dokumentiniai-filmai,266/florida-sauletoji-valstija,753926
