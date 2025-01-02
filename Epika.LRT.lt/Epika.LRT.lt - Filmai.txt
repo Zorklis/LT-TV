@@ -1,10 +1,11 @@
 Format:
 Month gap - 3 spaces, gap between days - 2 spaces, if same day just 1 gap between titles | for readibility
 ----
-Added (2024-??-??) and Removed (2024-12-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
+Added (2024-??-??) and Removed (2025-01-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
 ----
 
 ===2025===
+Added (2024-??-??) and Removed (2024-01-02 23:59) | Šalin meilę | Down with Love (2003) | 1:37:23 | Tekstą vertė: Ugnė Jekentaitė, Redagavo: Angelė Kiliuvienė, Skaitė: Simas Stankus ir Evelina Stankūnaitė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/salin-meile,776044
 
 
 ===2024===
