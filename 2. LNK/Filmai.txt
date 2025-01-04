@@ -5,7 +5,16 @@ Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X
  | Original | 1:XX:XX | Tekstą vertė: X, Skaitė: X, garsą režisavo: X, įgarsinta LNK televizijoje |
 https://lnk.lt/filmai
 -----
-===2025===
+===2025==='
+01-04 | Holograma karaliui | N-14 | A Hologram for the King (2016) | 1:29:56 | Tekstą vertė: Ona Braždytė, Skaitė: Eidvydas Stankevičius, Garso režisierius: Arvydas Zakšenskas, įgarsinta LNK televizijoje | https://lnk.lt/holograma-karaliui/291215
+
+01-03 | Didžiosios lenktynės. Audi prieš Lančią | N-14 | Race for Glory: Audi vs. Lancia (2024) | 1:36:17 | Skaitė: ? ir ?, išversta ir įgarsinta LNK televizijoje | https://lnk.lt/didziosios-lenktynes-audi-pries-lancia/291213
+01-03 | Komisaras Van Der Valkas. Paslaptys Amsterdame | N-14 | Van der Valk IV. Secrets in Amsterdam (2024) | 1:28:27 | Tekstą vertė: Agnė Lankaitytė, Skaitė: Gintaras Deksnys, Garso režisierius: Andrius Paulavičius, įgarsinta LNK televizijoje | https://lnk.lt/komisaras-van-der-valkas-paslaptys-amsterdame/291332
+
+01-02 | Nusikaltimo vieta - Brėmenas. Karaliaus vaikai | N-14 | Tatort. A Duo to Die For. Royal Children (2010) | 1:28:03 | Tekstą vertė: Rasa Pašiūnienė, Skaitė: Gintaras Deksnys, Garso režisierius: Mindaugas Juška, įgarsinta LNK televizijoje | https://lnk.lt/nusikaltimo-vieta-bremenas-karaliaus-vaikai/291314
+
+01-01 | Geras tripas | N-14 | Joy Ride (2023) | 1:25:14 | Tekstą vertė: ?, Skaitė: ? ir ?, Garso režisierius: ?, įgarsinta LNK televizijoje | https://lnk.lt/geras-tripas/291171
+01-01 | Karalius Drakonas | N-7 | Dragon Lord (1982) | 1:37:36 | Tekstą vertė: Dovydas Skaburskis, Skaitė: Eidvydas Stankevičius, Garso režisierius: Arvydas Zakšenskas, įgarsinta LNK televizijoje | https://lnk.lt/karalius-drakonas/291018
 01-01 | Veiksmas! | N-7 | Action (2024) | 48:36 | Tekstą vertė: Marija Paškevičiūtė, Skaitė: Gytis Jurgelevičius, Garso režisierė: Viktorija Golubkevičiūtė, įgarsinta LNK televizijoje | DRM | https://lnk.lt/veiksmas/291017
 01-01 | 44-asis Tarptautinis Monte Karlo cirko festivalis | 44th International Circus Festival of Monte Carlo (2020) | 2:00:25 | Skaitė: Jonas Radzevičius, įgarsinta LNK televizijoje | DRM | https://lnk.lt/44-asis-tarptautinis-monte-karlo-cirko-festivalis/291015
 01-01 | Šuns tikslas | N-7 | A Dog's Purpose (2017) | 1:31:07 | Skaitė: Eidvydas Stankevičius, Garso režisierė: Viktorija Golubkevičiūtė, įgarsinta LNK televizijoje | https://lnk.lt/suns-tikslas/291163
