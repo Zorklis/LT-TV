@@ -1,11 +1,20 @@
 Format:
 Month gap - 3 spaces, gap between days - 2 spaces, if same day just 1 gap between titles | for readibility
-----
+
+---- Subtitled
+
 Added (2024-??-??) and Removed (2025-01-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
-----
+
+---- Not Subtitled
+
+Added (2024-??-??) and Removed (2025-01-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | 
+
+
 
 ===2025===
-Added (2024-??-??) and Removed (2025-01-06 23:59) | Ponas Smirdžius | Mr. Stink (2012) | 59:36 | Tekstą vertė: Rasa Pekarskaitė, Redagavo: Inesa Didikaitė, Skaitė: Lina Budzeikaitė ir Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | 
+Added (2024-??-??) and Removed (2025-01-07 23:59) | Plėšikas Hocenplocas | The Robber Hotzenplotz (2022) | 1:46:18 | Tekstą vertė: Lina Čerkauskienė, Redagavo: Indrė Arbačiauskienė, Skaitė: Lina Budzeikaitė ir Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/plesikas-hocenplocas,764196
+
+Added (2024-??-??) and Removed (2025-01-06 23:59) | Ponas Smirdžius | Mr. Stink (2012) | 59:36 | Tekstą vertė: Rasa Pekarskaitė, Redagavo: Inesa Didikaitė, Skaitė: Lina Budzeikaitė ir Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/ponas-smirdzius,775288
 
 
 Added (2024-??-??) and Removed (2025-01-04 23:59) | Saugokis mamos | Viele Kühe und ein schwarzes Schaf (2020) | 1:37:23 | Tekstą vertė: Evelina Poviliūnienė, Redagavo: Rūta Radvilienė, Skaitė: Aldona Vilutytė ir Giedrius Arbačiauskas, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/saugokis-mamos,733734
