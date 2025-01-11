@@ -3,15 +3,21 @@ Month gap - 3 spaces, gap between days - 2 spaces, if same day just 1 gap betwee
 
 ---- Subtitled
 
-Added (2024-??-??) and Removed (2025-01-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
+Added (2024-??-??) and Removed (2025.01.??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Subtitrai: X ir X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta/Subtitruota LRT | 
 
 ---- Not Subtitled
 
-Added (2024-??-??) and Removed (2025-01-??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | 
+Added (2024-??-??) and Removed (2025.01.??) | Pavadinimas | English // Original (Years) | 1:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | 
 
 
 
 ===2025===
+Added (2024-??-??) and Removed (2025.01.11 23:59) | Meilei senatis negalioja | Liebe verjährt nicht (2019) | 1:26:39 | Tekstą vertė: Rytis Budvytis, Redagavo: Inga Mataitytė, Subtitrai: Karina Kropaitė ir Vincas Bazys, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė, Garso režisierius: Julius Palavinskas , Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/meilei-senatis-negalioja,630318
+
+
+Added (2024-11-28) and Removed (2025.01.11 23:59) | Vieni metai, viena naktis | One Year, One Night // Un ano, una noche (2022) | 2:10:07 | Tekstą vertė: Marija Bogušytė, Redagavo: Angelė Kiliuvienė, Subtitrus rengė: Karina Kropaitė ir Česlovas Juršėnienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/vieni-metai-viena-naktis,764295
+
+
 Added (2024-??-??) and Removed (2025-01-08 23:59) | Paslaptis (2024) | 22:12 | https://epika.lrt.lt/vaidybiniai-filmai,268/paslaptis,775289
 
 
@@ -35,8 +41,6 @@ Added (2024-12-15) and Removed (date) | Fabelmanai | The Fabelmans (2022) | 2:24
 Added (2024-12-12) and Removed (date) | Penki velniai | Les cinq diables (2022) | 1:36:27 | Tekstą vertė: Julius Jaunius, Adaptavo: Vaidas Bučys, Redagavo: Rūta Radvilienė, Subtitrus rengė: Indrė Arbačiauskienė, Skaitė: Evelina Stankūnaitė ir Andrius Kavaliauskas, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/penki-velniai,770705
 
 Added (2024-12-06) and Removed (date) | Kosta Brava, Libanas | Costa Brava, Lebanon (2021) | 1:40:49 | Tekstą vertė: Vytautas Stankus, Redagavo: Angelė Kiliuvienė, Subtitrai: Karina Kropaitė ir Rimas Valaitis, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/kosta-brava-libanas,768064
-
-Added (2024-11-28) and Removed (date) | Vieni metai, viena naktis | One Year, One Night // Un ano, una noche (2022) | 2:10:07 | Tekstą vertė: Marija Bogušytė, Redagavo: Angelė Kiliuvienė, Subtitrus rengė: Karina Kropaitė ir Česlovas Juršėnienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/vieni-metai-viena-naktis,764295
 
 Added (2024-11) and Removed () | Saulėlydis (2021) | Sundown (2021) | 1:22:22 | Tekstą vertė: Laimonas Vaičius, Adaptavo: Raimondas Čiuplys, Redagavo: Ausma Žilytė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/saulelydis,672967
 
