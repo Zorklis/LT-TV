@@ -12,6 +12,8 @@ Added (2024-??-??) and Removed (2025.01.??) | Pavadinimas | English // Original 
 
 
 ===2025===
+2024-11-15 // Removed (2025.01.14 23:59) | Mergina traukiny | N-14 | Girl on the Train (2016) | 1:47:13 | Tekstą vertė: Vaidas Bučys, Redagavo: Ausma Žilytė, Skaitė: Lina Budzeikaitė ir Simas Stankus, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/mergina-traukiny,757885
+
 Added (2024-??-??) and Removed (2025.01.11 23:59) | Meilei senatis negalioja | Liebe verjährt nicht (2019) | 1:26:39 | Tekstą vertė: Rytis Budvytis, Redagavo: Inga Mataitytė, Subtitrai: Karina Kropaitė ir Vincas Bazys, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė, Garso režisierius: Julius Palavinskas , Įgarsinta/Subtitruota LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/meilei-senatis-negalioja,630318
 
 
@@ -185,8 +187,6 @@ Added (date) and Removed (2024-11-19 23:59) | Ofelija | Ophelia (2018) | 1:41:57
 Added (date) and Removed (2024-11-18 23:59) | Gyvūnų instinktai. Viršiausių dvikova. Mandrilai | Original | X:XX:XX | Tekstą vertė: X, Adaptavo: X, Redagavo: X, Skaitė: X ir X, Garso režisierius: X, Įgarsinta LRT | https://epika.lrt.lt/dokumentiniai-filmai,266/gyvunu-instinktai-virsiausiu-dvikova-mandrilai,751115
 
 Removed (2024-11-17 23:59) | Bėgančios moterys | Zeny v behu (2019) | 1:30:12 | Tekstą vertė: Valda Dulevičiūtė-Žilionė, Redagavo: Ausma Žilytė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/begancios-moterys,733759
-
-2024-11-15 | Mergina traukiny | N-14 | Girl on the Train (2016) | 1:47:13 | Tekstą vertė: Vaidas Bučys, Redagavo: Ausma Žilytė, Skaitė: Lina Budzeikaitė ir Simas Stankus, Garso režisierius: Ramūnas Abromaitis, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/mergina-traukiny,757885
 
 2024-11-14 | Maža, lėta, bet užsispyrus | N-14 | Small, Slow But Steady // Keiko, me wo sumasete (2022) | 1:39:35 | Tekstą vertė: Lina Martišiūtė, Adaptavo: Raimondas Čiuplys, Redagavo: Rūta Radvilienė, Skaitė: Simas Stankus ir Gabrielė Tetenskaitė-Žvirgždė, Garso režisierius: Julius Palavinskas, Įgarsinta LRT | https://epika.lrt.lt/vaidybiniai-filmai,268/maza-leta-bet-uzsispyrus,757536
 
