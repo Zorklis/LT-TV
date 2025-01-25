@@ -2,13 +2,19 @@ Format:
 Note/Errors| Date when shown/added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
 Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
 -----
- | Original | 1:XX:XX | Tekstą vertė: X, Skaitė: X, Skaitė: X, Garso režisierius: X, įgarsinta LNK televizijoje |
+ | Original | 1:XX:XX | Tekstą vertė: X, Skaitė: X ir X, Garso režisierius: X, įgarsinta LNK televizijoje |
 
- | Original | 1:XX:XX | Tekstą vertė: X, Skaitė: X, Skaitė: X, Garso režisierė: X, įgarsinta LNK televizijoje |
+ | Original | 1:XX:XX | Tekstą vertė: X, Skaitė: X ir X, Garso režisierė: X, įgarsinta LNK televizijoje |
 
 https://lnk.lt/filmai
 -----
 ===2025===
+01-25 | Belvilio policininkas | N-14 | Belleville Cop (2018) | 1:43:38 | Skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Mindaugas Juška, įgarsinta LNK televizijoje | https://lnk.lt/belvilio-policininkas/294588
+01-25 | Kapitonė Marlo. Skausmo sezonas | N-14 | Captain Marleau IV. Morte Saison | 1:36:07 | Skaitė: ?, išversta ir įgarsinta LNK televizijoje | https://lnk.lt/kapitone-marlo-skausmo-sezonas/294709
+01-25 | Keršto kraujas | N-14 | Blood of Redemption (2013) | 1:15:53 | Tekstą vertė: Neringa Siurblytė-Keršulienė, Skaitė: Tomas Ališauskas, Garso režisierius: Arvydas Zakšenskas, įgarsinta LNK televizijoje | https://lnk.lt/kersto-kraujas/294576
+
+01-24 | Mechanikas | N-14 | The Russian Specialist (2005) | 1:27:28 | Skaitė: Gytis Jurgelevičius, įgarsinta LNK televizijoje | https://lnk.lt/mechanikas/294376
+
 01-23 | Apgaulės meistrai 2 | N-14 | Now You See Me 2 (2016) | 1:56:24 | Tekstą skaitė: Daiva Lebeliūnaitė ir Eidvydas Stankevičius, Garso režisierius: Andrius Paulavičius, įgarsinta LNK televizijoje | https://lnk.lt/apgaules-meistrai-2/294552
 01-23 | Nusikaltimo vieta - Brėmenas. Lėlininkas | N-14 | Tatort. A Duo to Die For. Puppeteer | 1:28:25 | Tekstą vertė: Rasa Pašiūnienė, Skaitė: Gintaras Deksnys, Garso režisierius: Arvydas Zakšenskas, įgarsinta LNK televizijoje | https://lnk.lt/nusikaltimo-vieta-bremenas-lelininkas/294674
 
