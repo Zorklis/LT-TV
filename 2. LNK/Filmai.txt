@@ -1,10 +1,10 @@
 Format:
 Note/Errors| Date when shown/added | LT title | Age rating/Documentary | Original Title | Time/Lenght | Voice Actor/Dubber | Link.
-Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: X, Skaitė: X, Garso režisierius: X, | URL
+Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: [[Unknown]], Skaitė: [[Unknown]], Garso režisierius: [[Unknown]], | URL
 -----
- | Original | 1:XX:XX | Tekstą vertė: X, Skaitė: X ir X, Garso režisierius: X, įgarsinta LNK televizijoje |
+ | Original | 1:XX:XX | Tekstą vertė: [[Unknown]], Skaitė: [[Unknown]] ir [[Unknown]], Garso režisierius: [[Unknown]], įgarsinta LNK televizijoje |
 
- | Original | 1:XX:XX | Tekstą vertė: X, Skaitė: X ir X, Garso režisierė: X, įgarsinta LNK televizijoje |
+ | Original | 1:XX:XX | Tekstą vertė: [[Unknown]], Skaitė: [[Unknown]] ir [[Unknown]], Garso režisierė: [[Unknown]], įgarsinta LNK televizijoje |
 
 https://lnk.lt/filmai
 -----
