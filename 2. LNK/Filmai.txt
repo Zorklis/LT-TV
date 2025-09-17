@@ -9,7 +9,7 @@ Notes | xx-xx | Pavadinimas | Original | X:XX:XX | Tekstą vertė: [[Unknown]], 
 https://lnk.lt/filmai
 -----
 ===2025===
-09-15 | Keršytojo kronikos | N-14 | Vigilante Chronicles (2016) | 1:27:41 | Tekstą skaitė: Tomas Ališauskas, Garso režisierius: Andrius Paulavičius, įgarsinta LNK televizijoje | https://lnk.lt/kasandra-povandenines-uolos/333998
+09-15 | Keršytojo kronikos | N-14 | Vigilante Chronicles (2016) | 1:27:41 | Tekstą skaitė: Tomas Ališauskas, Garso režisierius: Andrius Paulavičius, įgarsinta LNK televizijoje | https://lnk.lt/kersytojo-kronikos/333705
 09-15 | Kasandra. Povandeninės uolos | N-14 | Cassandre VII. Ondes de Choc (2023) | 1:35:43 | Tekstą skaitė: Inga Valinskienė, Garso režisierius: Andrius Paulavičius, įgarsinta LNK televizijoje | https://lnk.lt/kasandra-povandenines-uolos/333998
 
 09-14 | Hipnotikai | N-14 | Hypnotic (2023) | 1:24:04 | Skaitė: Inga Valinskienė ir Jonas Radzevičius | https://lnk.lt/hipnotikai/332900
@@ -1262,6 +1262,7 @@ Vagys melagiai | N-14 | ??? | Tekstą vertė: X, Skaitė: X, Garso režisierius:
 ===1996===
 
 ===1995===
+
 
 
 
